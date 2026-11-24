@@ -1,0 +1,5 @@
+cache/
+out/
+__pycache__/
+overrides.json
+apply_sights.py

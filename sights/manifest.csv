@@ -1,0 +1,1169 @@
+unit,sight,shell
+cn_al_khalid_1,ranging_125mm_dtc10_125,DTC10-125 APFSDS 1770 m/s
+cn_bt_5,ranging_45mm_br_243sp,BR-243SP APBC 757 m/s
+cn_cm11,ranging_105mm_dm63,DM63 APFSDS 1455 m/s
+cn_cm_34,ranging_30mm_mk258,MK258 APFSDS 1430 m/s
+cn_fk_2000,ranging_30mm_china_API,CHINA-API 970 m/s
+cn_gmc_cckw_353_m45_quad,ranging_ap_ball_M2,AP-BALL-M2 894 m/s
+cn_is_2_1943,ranging_122mm_br_471,BR-471 APHE 795 m/s
+cn_is_2_1943_no402,ranging_122mm_br_471,BR-471 APHE 795 m/s
+cn_is_2_1944,ranging_122mm_br_471d,BR-471D APCBC 800 m/s
+cn_isu_122,ranging_122mm_br_471,BR-471 APHE 795 m/s
+cn_isu_152,ranging_152mm_bp_540,BP-540 HEAT 680 m/s
+cn_lvt_4_zis_2,ranging_57mm_br_271,BR-271 APHEBC 990 m/s
+cn_m10,ranging_76mm_m62,M62 APCBC 792 m/s
+cn_m18_hellcat,ranging_76mm_m62,M62 APCBC 792 m/s
+cn_m1a2t,ranging_120mm_ke_w_a2,KE-W-A2 APFSDS 1700 m/s
+cn_m24_chaffee,ranging_75mm_m61,M61 APCBC 618 m/s
+cn_m36,ranging_90mm_m82,M82 APCBC 853 m/s
+cn_m3a3_stuart,ranging_37mm_m51b1,M51B1 APCBC 883 m/s
+cn_m3a3_stuart_1st_ptg,ranging_37mm_m51b1,M51B1 APCBC 883 m/s
+cn_m41_a3_walker_bulldog,ranging_76mm_m339,M339 APBC 975 m/s
+cn_m42_duster,ranging_40mm_M81A1,M81A1 AP 875 m/s
+cn_m48a1_patton_III,ranging_90mm_m431,M431 HEAT-FS 1216 m/s
+cn_m4a1_76w_sherman,ranging_75mm_m61,M61 APCBC 618 m/s
+cn_m4a4_sherman,ranging_75mm_m61,M61 APCBC 618 m/s
+cn_m4a4_sherman_1st_ptg,ranging_75mm_m61,M61 APCBC 618 m/s
+cn_m55,ranging_203mm_m106,M106 HE 594 m/s
+cn_m5a1_stuart,ranging_37mm_m51b1,M51B1 APCBC 883 m/s
+cn_m60a3_tts,ranging_105mm_dm33,DM33 APFSDS 1455 m/s
+cn_m8_greyhound,ranging_37mm_m51b1,M51B1 APCBC 883 m/s
+cn_m8_scott,ranging_75mm_m66,M66 HEAT 304 m/s
+cn_m_41d,ranging_76mm_m464,M464 APFSDS 1433 m/s
+cn_mbt2000,ranging_125mm_dtc10_125,DTC10-125 APFSDS 1770 m/s
+cn_mbt2000_sm,ranging_125mm_dtc10_125,DTC10-125 APFSDS 1770 m/s
+cn_object_122tm,ranging_120mm_122tm_tungsten,122TM-TUNGSTEN APFSDS 1580 m/s
+cn_object_211,ranging_type_56_apc,TYPE-56-APC APCBC 792 m/s
+cn_oplot_t,ranging_125mm_bta4,BTA4 APFSDS 1740 m/s
+cn_pgz_04a,ranging_25mm_type_87_api,TYPE-87-API 1050 m/s
+cn_pgz_09,ranging_35_228mm_apds_t,APDS-T 1400 m/s
+cn_pgz_625_fb10,ranging_30mm_china_API,CHINA-API 970 m/s
+cn_pgz_88,ranging_37mm_apit_1955,APIT-1955 1000 m/s
+cn_plz_05,ranging_155mm_bea_1,BEA-1 SAP 933 m/s
+cn_plz_45,ranging_155mm_bea_1,BEA-1 SAP 933 m/s
+cn_plz_83,ranging_152mm_ddb_1,DDB-1 HE 655 m/s
+cn_plz_83_130,ranging_130mm_br_482b,BR-482B APCBC 930 m/s
+cn_pt_76,ranging_76mm_bk_354m,BK-354M HEAT-FS 700 m/s
+cn_ptl_02,ranging_100mm_dyw_pt_86_100,DYW-PT-86-100 APFSDS 1610 m/s
+cn_ptz_89,ranging_120mm_dyw_1,DYW-1 APFSDS 1740 m/s
+cn_qn506,ranging_30mm_dtc10_30,DTC10-30 APFSDS 1310 m/s
+cn_sdkfz_222_early,ranging_20mm_pzgr,PZGR AP 800 m/s
+cn_su_100_1945,ranging_100mm_br_412d,BR-412D APCBC 887 m/s
+cn_su_76m_1943,ranging_76mm_br_350a,BR-350A APHEBC 662 m/s
+cn_t_26_1940,ranging_45mm_br_243sp,BR-243SP APBC 757 m/s
+cn_t_26_no531,ranging_45mm_br_243sp,BR-243SP APBC 757 m/s
+cn_t_34_1942,ranging_76mm_br_350a,BR-350A APHEBC 662 m/s
+cn_t_34_85_d_5t,ranging_85mm_br_365k,BR-365K APHE 792 m/s
+cn_t_34_85_zis_53_no215,ranging_85mm_br_365k,BR-365K APHE 792 m/s
+cn_t_62,ranging_115mm_3bm3,3BM3 APFSDS 1615 m/s
+cn_t_80ud_478be,ranging_125mm_3bm42,3BM42 APFSDS 1700 m/s
+cn_type_58,ranging_type_56_ap,TYPE-56-AP APHE 792 m/s
+cn_type_59,ranging_100mm_type1973,TYPE1973 HEAT-FS 955 m/s
+cn_type_59d,ranging_105mm_TYPE83_APDS,TYPE83-APDS APFSDS 1455 m/s
+cn_type_62,ranging_85mm_type1956,TYPE1956 HEAT-FS 845 m/s
+cn_type_63_I,ranging_85mm_type1956,TYPE1956 HEAT-FS 845 m/s
+cn_type_64,ranging_76mm_m62,M62 APCBC 792 m/s
+cn_type_65_aa,ranging_37mm_UBR_167,UBR-167 AP 868 m/s
+cn_type_69,ranging_100mm_1_72_85,1-72-85 APFSDS 1505 m/s
+cn_type_69_2a,ranging_100mm_type1973,TYPE1973 HEAT-FS 955 m/s
+cn_type_69_2g,ranging_105mm_TYPE83_APDS,TYPE83-APDS APFSDS 1500 m/s
+cn_type_86,ranging_73mm_type_85_heat,TYPE-85-HEAT 665 m/s
+cn_type_95_ha_go,ranging_37mm_aphe,APHE 575 m/s
+cn_type_97_chi_ha,ranging_57mm_type3,TYPE3 HEAT 380 m/s
+cn_type_97_kai,ranging_47mm_type1_ap,TYPE1-AP APHE 808 m/s
+cn_vt_4,ranging_125mm_dtc10_125,DTC10-125 APFSDS 1770 m/s
+cn_vt_4b,ranging_125mm_dtc10_125,DTC10-125 APFSDS 1770 m/s
+cn_vt_5,ranging_105mm_dtw2_105,DTW2-105 APFSDS 1530 m/s
+cn_wma_301,ranging_105mm_TYPE83_APDS,TYPE83-APDS APFSDS 1455 m/s
+cn_wz_1001,ranging_125mm_dtc10_125,DTC10-125 APFSDS 1810 m/s
+cn_wz_141,ranging_105mm_type_75_heat,TYPE-75-HEAT 503 m/s
+cn_wz_305,ranging_57mm_br_281sp,BR-281SP APCBC 1000 m/s
+cn_zbd_04,ranging_30mm_zpz02_apds,ZPZ02-APDS 1180 m/s
+cn_zbd_04a,ranging_30mm_dtc10_30,DTC10-30 APFSDS 1310 m/s
+cn_zsd63_pg87,ranging_25mm_type_87_api,TYPE-87-API 1050 m/s
+cn_zsl_92,ranging_25mm_type_87_api,TYPE-87-API 1050 m/s
+cn_ztl_11,ranging_105mm_dtw2_105,DTW2-105 APFSDS 1530 m/s
+cn_zts_63_1980,ranging_85mm_djw_85,DJW-85 APFSDS 1290 m/s
+cn_ztz_59a,ranging_100mm_type1973,TYPE1973 HEAT-FS 955 m/s
+cn_ztz_88a,ranging_105mm_TYPE83_APDS,TYPE83-APDS APFSDS 1500 m/s
+cn_ztz_88b,ranging_105mm_TYPE83_APDS,TYPE83-APDS APFSDS 1455 m/s
+cn_ztz_96,ranging_125mm_125_1,125-1 APFSDS 1730 m/s
+cn_ztz_96a,ranging_125mm_125_1,125-1 APFSDS 1730 m/s
+cn_ztz_96a_prot,ranging_125mm_125_1,125-1 APFSDS 1730 m/s
+cn_ztz_96a_race,ranging_125mm_125_1,125-1 APFSDS 1730 m/s
+cn_ztz_96b,ranging_125mm_dtc10_125,DTC10-125 APFSDS 1770 m/s
+cn_ztz_99,ranging_125mm_dtc10_125,DTC10-125 APFSDS 1770 m/s
+cn_ztz_99_w,ranging_125mm_dtc10_125,DTC10-125 APFSDS 1770 m/s
+cn_ztz_99a,ranging_125mm_dtc10_125,DTC10-125 APFSDS 1770 m/s
+fr_amc_34,ranging_47mm_mle1892g,MLE1892G APHE 450 m/s
+fr_amc_35,ranging_47mm_mle1935,MLE1935 APC 660 m/s
+fr_amd_35,ranging_25mm_mle1934_tp_ch_f,MLE1934-TP-CH-F APC 950 m/s
+fr_amd_35_kwk39,ranging_50mm_pzgr_39,PZGR-39 APC 835 m/s
+fr_amd_35_sa35,ranging_47mm_mle1935,MLE1935 APC 660 m/s
+fr_aml_90,ranging_90mm_occ_90_62,OCC-90-62 HEAT-FS 800 m/s
+fr_amr_35_zt3,ranging_25mm_mle1934_tp_ch_f,MLE1934-TP-CH-F APC 950 m/s
+fr_amx_10p,ranging_20mm_dm63,DM63 APDS 1150 m/s
+fr_amx_10rc,ranging_105mm_ofl_f3,OFL-F3 APFSDS 1400 m/s
+fr_amx_13_75,ranging_75mm_pcot51p,PCOT51P APCBC 1000 m/s
+fr_amx_13_75_ss11,ranging_75mm_pcot51p,PCOT51P APCBC 1000 m/s
+fr_amx_13_90,ranging_90mm_occ_90_62,OCC-90-62 HEAT-FS 950 m/s
+fr_amx_13_chaffee,ranging_75mm_m61,M61 APCBC 618 m/s
+fr_amx_13_dca_40,ranging_40mm_l70_ap,L70-AP 1025 m/s
+fr_amx_13_fl_11,ranging_75mm_m61,M61 APCBC 618 m/s
+fr_amx_13_hot,ranging_75mm_pcot51p,PCOT51P APCBC 1000 m/s
+fr_amx_30,ranging_105mm_occ_f1,OCC-F1 HEAT 1000 m/s
+fr_amx_30_1972,ranging_105mm_occ_f1,OCC-F1 HEAT 1000 m/s
+fr_amx_30_auf_1,ranging_155mm_oe_155_56_he,OE-155-56-HE 810 m/s
+fr_amx_30_b2,ranging_105mm_ofl_105_f1,OFL-105-F1 APFSDS 1525 m/s
+fr_amx_30_b2_brenus,ranging_105mm_ofl_105_f1,OFL-105-F1 APFSDS 1525 m/s
+fr_amx_30_dca,ranging_30_170mm_aphe_i,APHE-I SAP 1080 m/s
+fr_amx_30_super,ranging_105mm_ofl_105_f1,OFL-105-F1 APFSDS 1525 m/s
+fr_amx_32,ranging_120mm_ofl_120_g1,OFL-120-G1 APFSDS 1650 m/s
+fr_amx_32_105,ranging_105mm_ofl_105_f1,OFL-105-F1 APFSDS 1525 m/s
+fr_amx_40,ranging_120mm_ofl_120_g1,OFL-120-G1 APFSDS 1650 m/s
+fr_amx_50,ranging_100mm_sa47_apcbc,SA47-APCBC 1000 m/s
+fr_amx_50_1950,ranging_90mm_m82,M82 APCBC 930 m/s
+fr_amx_50_foch,ranging_120mm_obus_de_rupture,OBUS-DE-RUPTURE APBC 1067 m/s
+fr_amx_50_surbaisse,ranging_120mm_obus_de_rupture,OBUS-DE-RUPTURE APBC 1067 m/s
+fr_amx_50_surblinde,ranging_120mm_obus_de_rupture,OBUS-DE-RUPTURE APBC 1067 m/s
+fr_amx_elc_901,ranging_90mm_occ_90_62,OCC-90-62 HEAT-FS 800 m/s
+fr_amx_elc_bis,ranging_90mm_occ_90_62,OCC-90-62 HEAT-FS 800 m/s
+fr_amx_m4,ranging_90mm_sa45_apc,SA45-APC APCBC 1030 m/s
+fr_amx_vtt_dca,ranging_ap_ball_M2,AP-BALL-M2 894 m/s
+fr_arl_44,ranging_90mm_sa45_apc,SA45-APC APCBC 1000 m/s
+fr_arl_44_acl1,ranging_75mm_obus_de_rupture,OBUS-DE-RUPTURE APCBC 715 m/s
+fr_arl_44_mod,ranging_90mm_sa45_apc,SA45-APC APCBC 1000 m/s
+fr_b1_bis,ranging_47mm_mle1935,MLE1935 APC 660 m/s
+fr_b1_ter,ranging_47mm_mle1935,MLE1935 APC 660 m/s
+fr_bat_chat_25t,ranging_90mm_m82,M82 APCBC 930 m/s
+fr_cckw_353_bofors,ranging_40mm_M81A1,M81A1 AP 875 m/s
+fr_char_2c,ranging_75mm_mle1916,MLE1916 APHE 558 m/s
+fr_char_2c_bis,ranging_155mm_oa_mle14,OA-MLE14 HE 210 m/s
+fr_citroen_kegresse_p4t,ranging_13mm_p,P AP 800 m/s
+fr_crusader_mk_2,ranging_40mm_shot_mk1_apcbct,SHOT-MK1-APCBCT 792 m/s
+fr_cv_9035_nl,ranging_35mm_pmc343,PMC343 APFSDS 1400 m/s
+fr_embt,ranging_120mm_ofl_120_f2,OFL-120-F2 APFSDS 1740 m/s
+fr_fcm_36,ranging_37mm_mle1937,MLE1937 APCR 600 m/s
+fr_hotchkiss_h35,ranging_37mm_mle1937,MLE1937 APCR 600 m/s
+fr_hotchkiss_h39,ranging_37mm_mle1938,MLE1938 APC 705 m/s
+fr_hotchkiss_h39_cambronne,ranging_37mm_mle1938,MLE1938 APC 705 m/s
+fr_jaguar_ebrc,ranging_40mm_gpr_ke_t_apfsds,GPR-KE-T-APFSDS 1510 m/s
+fr_leclerc_azur,ranging_120mm_ofl_120_f2,OFL-120-F2 APFSDS 1740 m/s
+fr_leclerc_s1,ranging_120mm_ofl_120_f2,OFL-120-F2 APFSDS 1740 m/s
+fr_leclerc_s2,ranging_120mm_ofl_120_f2,OFL-120-F2 APFSDS 1740 m/s
+fr_leclerc_sxxi,ranging_120mm_ofl_120_f2,OFL-120-F2 APFSDS 1740 m/s
+fr_leopard_1a5be,ranging_105mm_dm33,DM33 APFSDS 1455 m/s
+fr_leopard_2a4nl,ranging_120mm_dm13,DM13 APFSDS 1650 m/s
+fr_leopard_2a4nl_les,ranging_120mm_dm13,DM13 APFSDS 1650 m/s
+fr_leopard_2a5nl,ranging_120mm_dm53,DM53 APFSDS 1670 m/s
+fr_leopard_2a6nl,ranging_120mm_dm53,DM53 APFSDS 1750 m/s
+fr_lorraine_100,ranging_100mm_sa47_apcbc,SA47-APCBC 1000 m/s
+fr_lorraine_155,ranging_155mm_m107,M107 HE 563 m/s
+fr_lorraine_37l,ranging_47mm_mle1936,MLE1936 APCBC 855 m/s
+fr_lorraine_40t,ranging_100mm_sa47_apcbc,SA47-APCBC 1000 m/s
+fr_lvt_bofors,ranging_40mm_M81A1,M81A1 AP 875 m/s
+fr_m10,ranging_76mm_m62,M62 APCBC 792 m/s
+fr_m26_pershing,ranging_90mm_m82,M82 APCBC 853 m/s
+fr_m36b2_cefeo,ranging_90mm_m348,M348 HEAT-FS 853 m/s
+fr_m3a3_stuart,ranging_37mm_m51b1,M51B1 APCBC 883 m/s
+fr_m44,ranging_155mm_m107,M107 HE 563 m/s
+fr_m46_patton,ranging_90mm_m348,M348 HEAT-FS 853 m/s
+fr_m4a1_sherman,ranging_75mm_m61,M61 APCBC 618 m/s
+fr_m4a1_sherman_fl_10,ranging_75mm_pot51a,POT51A APBC 1000 m/s
+fr_m4a3_105_sherman,ranging_105mm_m67,M67 HEAT 381 m/s
+fr_m4a3e2_sherman_jumbo,ranging_75mm_m61,M61 APCBC 618 m/s
+fr_m4a4_cn_75_50,ranging_75mm_pcot51p,PCOT51P APCBC 1000 m/s
+fr_m4a4_sherman,ranging_75mm_m61,M61 APCBC 618 m/s
+fr_m55,ranging_203mm_m106,M106 HE 594 m/s
+fr_marder_clovis,ranging_105mm_occ_f1,OCC-F1 HEAT 800 m/s
+fr_marder_df_105,ranging_105mm_occ_f1,OCC-F1 HEAT 800 m/s
+fr_mars_15,ranging_90mm_ofl_f1,OFL-F1 APFSDS 1275 m/s
+fr_msc,ranging_120mm_ofl_120_g1,OFL-120-G1 APFSDS 1780 m/s
+fr_panhard_ebr_1951,ranging_75mm_m61,M61 APCBC 618 m/s
+fr_panhard_ebr_1954,ranging_75mm_pcot51p,PCOT51P APCBC 1000 m/s
+fr_panhard_ebr_1963,ranging_90mm_occ_90_62,OCC-90-62 HEAT-FS 750 m/s
+fr_prtl,ranging_35_228mm_apds_t,APDS-T 1400 m/s
+fr_pzkpfw_V_panther_dauphine,ranging_75mm_pzrg_39_42,PZRG-39-42 APCBC 935 m/s
+fr_renault_d2,ranging_47mm_mle1935,MLE1935 APC 660 m/s
+fr_renault_r39,ranging_37mm_mle1938,MLE1938 APC 705 m/s
+fr_saint_chamond,ranging_75mm_mle1910m,MLE1910M APHE 570 m/s
+fr_sk105_a2,ranging_105mm_ofl_105_g1,OFL-105-G1 APFSDS 1475 m/s
+fr_somua_s35,ranging_47mm_mle1935,MLE1935 APC 660 m/s
+fr_somua_sau40,ranging_75mm_mle1910m,MLE1910M APHE 555 m/s
+fr_somua_sm,ranging_100mm_sa47_apcbc,SA47-APCBC 1000 m/s
+fr_tpk_641_vpc,ranging_20mm_m601,M601 APCR 1100 m/s
+fr_vbci,ranging_25mm_pmb_09,PMB-09 APFSDS 1385 m/s
+fr_vbci2_mct30,ranging_30mm_mk258,MK258 APFSDS 1430 m/s
+fr_vextra_105,ranging_105mm_ofl_g2,OFL-G2 APFSDS 1500 m/s
+germ_a7v,ranging_57mm_gr_p,GR-P APHE 487 m/s
+germ_a7v_event,ranging_57mm_gr_p,GR-P APHE 487 m/s
+germ_amd_35_kwk,ranging_50mm_pzgr_39,PZGR-39 APC 685 m/s
+germ_amd_35_kwk39,ranging_50mm_pzgr_39,PZGR-39 APC 835 m/s
+germ_begleitpanzer_57,ranging_57_438mm_ap,AP APCBC 950 m/s
+germ_beutepanzer_mk_iv,ranging_57mm_gr_p,GR-P APHE 487 m/s
+germ_beutepanzer_mk_iv_event,ranging_57mm_gr_p,GR-P APHE 487 m/s
+germ_bmp_1_ddr,ranging_73mm_pg_9,PG-9 HEAT 665 m/s
+germ_boxer_3105,ranging_105mm_dm63,DM63 APFSDS 1455 m/s
+germ_boxer_swatrinf,ranging_30mm_pmc287,PMC287 APFSDS 1405 m/s
+germ_embt,ranging_120mm_ofl_120_f2,OFL-120-F2 APFSDS 1740 m/s
+germ_erprobungstrager_3_achs_turm,ranging_105mm_dm12,DM12 HEAT-FS 1174 m/s
+germ_flakpanzer_38t_Gepard,ranging_20mm_pzgr,PZGR AP 800 m/s
+germ_flakpanzer_IV_Kugelblitz,ranging_30mm_PzGr,PZGR AP 800 m/s
+germ_flakpanzer_IV_Ostwind,ranging_37mm_pzgr_belt,PZGR-BELT APHE 790 m/s
+germ_flakpanzer_IV_Ostwind_2,ranging_37mm_pzgr_belt,PZGR-BELT APHE 790 m/s
+germ_flakpanzer_IV_Ostwind_2_net,ranging_37mm_pzgr_belt,PZGR-BELT APHE 790 m/s
+germ_flakpanzer_IV_Wirbelwind,ranging_20mm_pzgr,PZGR AP 800 m/s
+germ_flakpanzer_I_ausf_A,ranging_20mm_pzgr,PZGR AP 800 m/s
+germ_flakpanzer_V_Coelian,ranging_37mm_pzgr_341,PZGR-341 APHE 1000 m/s
+germ_flakpanzer_zerstorer_45,ranging_30mm_PzGr,PZGR AP 800 m/s
+germ_flakpz_1a2_Gepard,ranging_35_228mm_apds_t,APDS-T 1400 m/s
+germ_flakpz_I_Gepard,ranging_35_228mm_apds_t,APDS-T 1400 m/s
+germ_garford_putilov,ranging_76mm_1910_he,1910-HE 381 m/s
+germ_garford_putilov_event,ranging_76mm_1910_he,1910-HE 381 m/s
+germ_hummel,ranging_150mm_pzgr_39_ts,PZGR-39-TS APCBC 880 m/s
+germ_infanterie_kampfpanzer_churchill,ranging_57mm_shot_mk9t,SHOT-MK9T APCBC 847 m/s
+germ_jgdpz_38t,ranging_75mm_pzgr_39,PZGR-39 APCBC 770 m/s
+germ_jgdpz_IV_L48,ranging_75mm_pzgr_39,PZGR-39 APCBC 770 m/s
+germ_kanonenjagdpanzer,ranging_90mm_m431,M431 HEAT-FS 1181 m/s
+germ_kpz_70,ranging_152mm_xm578e1,XM578E1 APFSDS 1509 m/s
+germ_kpz_t72m1,ranging_125mm_3bm15,3BM15 APFSDS 1780 m/s
+germ_kv_1B_finland,ranging_76mm_br_350a,BR-350A APHEBC 612 m/s
+germ_kv_1_kwk_40,ranging_75mm_pzgr_39,PZGR-39 APCBC 770 m/s
+germ_kv_2_754r,ranging_152mm_pb_35,PB-35 SAP 436 m/s
+germ_le_kpz_m41,ranging_76mm_m496,M496 HEAT-FS 1082 m/s
+germ_leopard_1a5,ranging_105mm_dm33,DM33 APFSDS 1455 m/s
+germ_leopard_2_pt14,ranging_120mm_dm13,DM13 APFSDS 1650 m/s
+germ_leopard_2a4,ranging_120mm_dm13,DM13 APFSDS 1650 m/s
+germ_leopard_2a4_pzbtl_123,ranging_120mm_dm13,DM13 APFSDS 1650 m/s
+germ_leopard_2a4m_can,ranging_120mm_ke_w,KE-W APFSDS 1585 m/s
+germ_leopard_2a4m_can_sm,ranging_120mm_ke_w,KE-W APFSDS 1585 m/s
+germ_leopard_2a5,ranging_120mm_dm53,DM53 APFSDS 1670 m/s
+germ_leopard_2a5_pso,ranging_120mm_dm53,DM53 APFSDS 1670 m/s
+germ_leopard_2a5_yt_cup_2019,ranging_120mm_dm53,DM53 APFSDS 1670 m/s
+germ_leopard_2a6,ranging_120mm_dm53,DM53 APFSDS 1750 m/s
+germ_leopard_2a7v,ranging_120mm_dm53,DM53 APFSDS 1750 m/s
+germ_leopard_2a8,ranging_120mm_dm53,DM53 APFSDS 1750 m/s
+germ_leopard_2av,ranging_105mm_dm33,DM33 APFSDS 1455 m/s
+germ_leopard_2k,ranging_120mm_dm13,DM13 APFSDS 1650 m/s
+germ_leopard_2pl,ranging_120mm_dm53,DM53 APFSDS 1670 m/s
+germ_leopard_I,ranging_105mm_dm12,DM12 HEAT-FS 1174 m/s
+germ_leopard_I_a1,ranging_105mm_dm23,DM23 APFSDS 1455 m/s
+germ_leopard_a1a1_120,ranging_120mm_dm13,DM13 APFSDS 1650 m/s
+germ_leopard_c2_mexas,ranging_105mm_dm33,DM33 APFSDS 1455 m/s
+germ_m109g,ranging_155mm_m107,M107 HE 684 m/s
+germ_m44,ranging_155mm_m107,M107 HE 563 m/s
+germ_m55,ranging_203mm_m106,M106 HE 594 m/s
+germ_marder_1a1,ranging_20mm_dm43,DM43 APCR 1100 m/s
+germ_marder_1a3,ranging_20mm_dm63,DM63 APDS 1150 m/s
+germ_marder_clovis,ranging_105mm_occ_f1,OCC-F1 HEAT 800 m/s
+germ_marder_df_105,ranging_105mm_occ_f1,OCC-F1 HEAT 800 m/s
+germ_mkpz_m47,ranging_90mm_m431,M431 HEAT-FS 1216 m/s
+germ_mkpz_m48a2c,ranging_90mm_m431,M431 HEAT-FS 1216 m/s
+germ_mkpz_m48a2ga2,ranging_105mm_dm23,DM23 APFSDS 1455 m/s
+germ_mkpz_super_m48,ranging_105mm_dm33,DM33 APFSDS 1455 m/s
+germ_nbfz_VI,ranging_75mm_grhl_38_b,GRHL-38-B HEAT 450 m/s
+germ_panther_II,ranging_88mm_pzrg_39_43,PZRG-39-43 APCBC 1000 m/s
+germ_panther_II_tutorial,ranging_88mm_pzrg_40_43,PZRG-40-43 APCR 1130 m/s
+germ_panzerbefelhswagen_IV_ausf_J,ranging_75mm_pzgr_39,PZGR-39 APCBC 770 m/s
+germ_panzerbefelhswagen_VI_P,ranging_88mm_pzrg_39,PZRG-39 APCBC 773 m/s
+germ_panzerbefelhswagen_jagdpanther,ranging_88mm_pzrg_39_43,PZRG-39-43 APCBC 1000 m/s
+germ_panzerjager_1,ranging_47mm_pzgr_36t,PZGR-36T APC 775 m/s
+germ_panzerjager_nashorn,ranging_88mm_pzrg_39_43,PZRG-39-43 APCBC 1000 m/s
+germ_panzerjager_panther,ranging_88mm_pzrg_39_43,PZRG-39-43 APCBC 1000 m/s
+germ_panzerjager_panther_g2,ranging_88mm_pzrg_39_43,PZRG-39-43 APCBC 1000 m/s
+germ_panzerjager_tiger,ranging_128mm_pzrg_40_43,PZRG-40-43 APCBC 940 m/s
+germ_panzerjager_tiger_P_elefant,ranging_88mm_pzrg_39_43,PZRG-39-43 APCBC 1000 m/s
+germ_panzerjager_tiger_P_ferdinand,ranging_88mm_pzrg_39_43,PZRG-39-43 APCBC 1000 m/s
+germ_pz_IV_L70,ranging_75mm_pzrg_39_42,PZRG-39-42 APCBC 935 m/s
+germ_pz_IV_L70_A,ranging_75mm_pzrg_39_42,PZRG-39-42 APCBC 935 m/s
+germ_pzh_2000,ranging_155mm_oe_f3,OE-F3 HE 935 m/s
+germ_pzkpfw_35t,ranging_37mm_pzgr_t,PZGR-T APC 675 m/s
+germ_pzkpfw_35t_romania_mare,ranging_37mm_pzgr_t,PZGR-T APC 675 m/s
+germ_pzkpfw_38t_Aufklarungspanzer,ranging_20mm_pzgr,PZGR AP 800 m/s
+germ_pzkpfw_38t_Marder_III,ranging_76mm_pzgr_39_rot,PZGR-39-ROT APCBC 720 m/s
+germ_pzkpfw_38t_Marder_III_ausf_H,ranging_75mm_pzgr_39,PZGR-39 APCBC 792 m/s
+germ_pzkpfw_38t_ausf_A,ranging_37mm_pzgr_t,PZGR-T APC 741 m/s
+germ_pzkpfw_38t_ausf_F,ranging_37mm_pzgr_t,PZGR-T APC 741 m/s
+germ_pzkpfw_38t_na,ranging_37mm_pzgr_t,PZGR-T APC 741 m/s
+germ_pzkpfw_III_ausf_B,ranging_37mm_pzgr_40,PZGR-40 APCR 1020 m/s
+germ_pzkpfw_III_ausf_E,ranging_37mm_pzgr_40,PZGR-40 APCR 1020 m/s
+germ_pzkpfw_III_ausf_F,ranging_50mm_pzgr_39,PZGR-39 APC 685 m/s
+germ_pzkpfw_III_ausf_J,ranging_50mm_pzgr_39,PZGR-39 APC 835 m/s
+germ_pzkpfw_III_ausf_J_L42,ranging_50mm_pzgr_39,PZGR-39 APC 685 m/s
+germ_pzkpfw_III_ausf_J_td,ranging_50mm_pzgr_39,PZGR-39 APC 835 m/s
+germ_pzkpfw_III_ausf_L,ranging_50mm_pzgr_39,PZGR-39 APC 835 m/s
+germ_pzkpfw_III_ausf_M,ranging_50mm_pzgr_39,PZGR-39 APC 835 m/s
+germ_pzkpfw_III_ausf_N,ranging_75mm_grhl_38_c,GRHL-38-C HEAT 450 m/s
+germ_pzkpfw_II_ausf_C,ranging_20mm_pzgr,PZGR AP 800 m/s
+germ_pzkpfw_II_ausf_C_DAK,ranging_20mm_pzgr,PZGR AP 800 m/s
+germ_pzkpfw_II_ausf_C_td,ranging_20mm_pzgr,PZGR AP 800 m/s
+germ_pzkpfw_II_ausf_F,ranging_20mm_pzgr,PZGR AP 800 m/s
+germ_pzkpfw_II_ausf_H,ranging_50mm_pzgr_39,PZGR-39 APC 835 m/s
+germ_pzkpfw_IV_ausf_C,ranging_75mm_grhl_38_b,GRHL-38-B HEAT 450 m/s
+germ_pzkpfw_IV_ausf_E,ranging_75mm_grhl_38_c,GRHL-38-C HEAT 450 m/s
+germ_pzkpfw_IV_ausf_F,ranging_75mm_grhl_38_c,GRHL-38-C HEAT 450 m/s
+germ_pzkpfw_IV_ausf_F2,ranging_75mm_pzgr_39,PZGR-39 APCBC 740 m/s
+germ_pzkpfw_IV_ausf_G,ranging_75mm_pzgr_39,PZGR-39 APCBC 740 m/s
+germ_pzkpfw_IV_ausf_H,ranging_75mm_pzgr_39,PZGR-39 APCBC 770 m/s
+germ_pzkpfw_IV_ausf_J,ranging_75mm_pzgr_39,PZGR-39 APCBC 770 m/s
+germ_pzkpfw_Maus,ranging_128mm_pzgr_ts,PZGR-TS APCBC 1230 m/s
+germ_pzkpfw_VI_ausf_b_tiger_IIh,ranging_88mm_pzrg_39_43,PZRG-39-43 APCBC 1000 m/s
+germ_pzkpfw_VI_ausf_b_tiger_IIh_kwk46,ranging_105mm_pzrg_39,PZRG-39 APCBC 1005 m/s
+germ_pzkpfw_VI_ausf_b_tiger_IIh_sla,ranging_88mm_pzrg_39_43,PZRG-39-43 APCBC 1000 m/s
+germ_pzkpfw_VI_ausf_b_tiger_IIp,ranging_88mm_pzrg_39_43,PZRG-39-43 APCBC 1000 m/s
+germ_pzkpfw_VI_ausf_e_tiger,ranging_88mm_pzrg_39,PZRG-39 APCBC 773 m/s
+germ_pzkpfw_VI_ausf_h1_tiger,ranging_88mm_pzrg_39,PZRG-39 APCBC 773 m/s
+germ_pzkpfw_VI_ausf_h1_tiger_animal_version,ranging_88mm_pzrg_39,PZRG-39 APCBC 773 m/s
+germ_pzkpfw_VI_ausf_h1_tiger_east,ranging_88mm_pzrg_39,PZRG-39 APCBC 773 m/s
+germ_pzkpfw_VI_ausf_h1_tiger_west,ranging_88mm_pzrg_39,PZRG-39 APCBC 773 m/s
+germ_pzkpfw_VI_tiger_P,ranging_88mm_pzrg_39,PZRG-39 APCBC 773 m/s
+germ_pzkpfw_V_ausf_a_panther,ranging_75mm_pzrg_39_42,PZRG-39-42 APCBC 935 m/s
+germ_pzkpfw_V_ausf_d_panther,ranging_75mm_pzrg_39_42,PZRG-39-42 APCBC 935 m/s
+germ_pzkpfw_V_ausf_f_panther,ranging_75mm_pzrg_39_42,PZRG-39-42 APCBC 935 m/s
+germ_pzkpfw_V_ausf_g_panther,ranging_75mm_pzrg_39_42,PZRG-39-42 APCBC 935 m/s
+germ_pzkpfw_V_ersatz_m10,ranging_75mm_pzrg_39_42,PZRG-39-42 APCBC 935 m/s
+germ_pzkpfw_e_100,ranging_128mm_pzgr_ts,PZGR-TS APCBC 1230 m/s
+germ_pzsfl_IVa_dickermax,ranging_105mm_pzrg_rot,PZRG-ROT APCBC 822 m/s
+germ_pzsflk40_sturer_emil,ranging_128mm_pzrg_40_43,PZRG-40-43 APCBC 880 m/s
+germ_radpanzer_90,ranging_105mm_dm33,DM33 APFSDS 1455 m/s
+germ_ru251,ranging_90mm_m431,M431 HEAT-FS 1181 m/s
+germ_schutzenpanzer_puma,ranging_30mm_pmc287,PMC287 APFSDS 1405 m/s
+germ_schutzenpanzer_puma_vjtf,ranging_30mm_pmc287,PMC287 APFSDS 1405 m/s
+germ_schutzenpanzer_puma_vjtf_mod,ranging_30mm_pmc287,PMC287 APFSDS 1405 m/s
+germ_sdkfz_221_s_pz_b_41,ranging_28_20mm_pzgr41,PZGR41 APCR 1400 m/s
+germ_sdkfz_222,ranging_20mm_pzgr,PZGR AP 800 m/s
+germ_sdkfz_234_1,ranging_20mm_pzgr,PZGR AP 800 m/s
+germ_sdkfz_234_2,ranging_50mm_pzgr_39,PZGR-39 APC 835 m/s
+germ_sdkfz_234_2_mod,ranging_50mm_pzgr_39,PZGR-39 APC 835 m/s
+germ_sdkfz_234_2_td,ranging_50mm_pzgr_39,PZGR-39 APC 835 m/s
+germ_sdkfz_234_3,ranging_75mm_grhl_38_c,GRHL-38-C HEAT 450 m/s
+germ_sdkfz_234_4,ranging_75mm_pzgr_39,PZGR-39 APCBC 792 m/s
+germ_sdkfz_251_10,ranging_37mm_pzgr_40,PZGR-40 APCR 1020 m/s
+germ_sdkfz_251_21,ranging_15mm_pzbrgr,PZBRGR AP 960 m/s
+germ_sdkfz_251_22,ranging_75mm_pzgr_39,PZGR-39 APCBC 792 m/s
+germ_sdkfz_251_9,ranging_75mm_grhl_38_c,GRHL-38-C HEAT 450 m/s
+germ_sdkfz_6_2_flak36,ranging_37mm_pzgr_belt,PZGR-BELT APHE 790 m/s
+germ_sdkfz_9_flak37,ranging_88mm_pzgr,PZGR APCBC 810 m/s
+germ_sk105_a2,ranging_105mm_ofl_105_g1,OFL-105-G1 APFSDS 1475 m/s
+germ_sppz2_luchs_a2,ranging_20mm_dm63,DM63 APDS 1150 m/s
+germ_spz_12_3,ranging_106mm_m344a1,M344A1 HEAT 503 m/s
+germ_stug_III_ausf_A,ranging_75mm_grhl_38_c,GRHL-38-C HEAT 450 m/s
+germ_stug_III_ausf_F,ranging_75mm_pzgr_39,PZGR-39 APCBC 740 m/s
+germ_stug_III_ausf_G,ranging_75mm_pzgr_39,PZGR-39 APCBC 770 m/s
+germ_stuh_III_ausf_G,ranging_105mm_grhl_39_c,GRHL-39-C HEAT 495 m/s
+germ_sturmpanzer_II,ranging_150mm_jgr_39,JGR-39 HEAT 280 m/s
+germ_sturmpanzer_IV_brummbar,ranging_150mm_jgr_39,JGR-39 HEAT 280 m/s
+germ_t_34_747,ranging_76mm_br_350a,BR-350A APHEBC 662 m/s
+germ_th_400,ranging_105mm_dm33,DM33 APFSDS 1455 m/s
+germ_th_800_bismark,ranging_105mm_dm33,DM33 APFSDS 1455 m/s
+germ_thyssen_henschel_tam,ranging_105mm_dm23,DM23 APFSDS 1455 m/s
+germ_thyssen_henschel_tam_2c,ranging_105mm_dm63,DM63 APFSDS 1455 m/s
+germ_thyssen_henschel_tam_2ip,ranging_105mm_dm33,DM33 APFSDS 1455 m/s
+germ_vilkas,ranging_30mm_mk258,MK258 APFSDS 1430 m/s
+germ_vk_3002m,ranging_75mm_pzrg_39_42,PZRG-39-42 APCBC 935 m/s
+germ_vsw_flak_41,ranging_88mm_pzrg_39_43,PZRG-39-43 APCBC 980 m/s
+germ_vt_1_2,ranging_120mm_dm13,DM13 APFSDS 1650 m/s
+germ_waffentrager_krupp_steyr,ranging_88mm_pzrg_39_43,PZRG-39-43 APCBC 1000 m/s
+germ_wiesel_1_mk20,ranging_20mm_dm63,DM63 APDS 1150 m/s
+il_aml_90,ranging_90mm_occ_90_62,OCC-90-62 HEAT-FS 800 m/s
+il_amx_13_75,ranging_75mm_pcot51p,PCOT51P APCBC 1000 m/s
+il_centurion_mk_5_shot,ranging_83mm_shot_mk3,SHOT-MK3 APDS 1433 m/s
+il_centurion_shot_kal_alef,ranging_105mm_m456,M456 HEAT-FS 1174 m/s
+il_centurion_shot_kal_d,ranging_105mm_m111,M111 APFSDS 1455 m/s
+il_centurion_shot_kal_gimel,ranging_105mm_m111,M111 APFSDS 1455 m/s
+il_eitan,ranging_30mm_mk258,MK258 APFSDS 1430 m/s
+il_hunter_afv,ranging_30mm_mk258,MK258 APFSDS 1430 m/s
+il_leopard_2a6_hel,ranging_120mm_dm53,DM53 APFSDS 1750 m/s
+il_m109,ranging_155mm_m107,M107 HE 562 m/s
+il_m109a1,ranging_155mm_m107,M107 HE 684 m/s
+il_m113_hvms,ranging_60mm_m300,M300 APFSDS 1620 m/s
+il_m163_vulcan,ranging_20mm_m53,M53 AP 1030 m/s
+il_m48a1_patton_III,ranging_90mm_m431,M431 HEAT-FS 1216 m/s
+il_m_51,ranging_105mm_occ_f1,OCC-F1 HEAT 800 m/s
+il_m_51_w,ranging_105mm_occ_f1,OCC-F1 HEAT 800 m/s
+il_machbet,ranging_20mm_m53,M53 AP 1030 m/s
+il_magach_2,ranging_90mm_m431,M431 HEAT-FS 1216 m/s
+il_magach_3,ranging_105mm_imi_m152,IMI-M152 HEAT-FS 1174 m/s
+il_magach_3_idf,ranging_105mm_imi_m152,IMI-M152 HEAT-FS 1174 m/s
+il_magach_5,ranging_105mm_m111,M111 APFSDS 1455 m/s
+il_magach_6,ranging_105mm_imi_m152,IMI-M152 HEAT-FS 1174 m/s
+il_magach_6_rocket,ranging_105mm_m111,M111 APFSDS 1455 m/s
+il_magach_6a,ranging_105mm_m456,M456 HEAT-FS 1174 m/s
+il_magach_6b,ranging_105mm_m111,M111 APFSDS 1455 m/s
+il_magach_6b_gal,ranging_105mm_imi_m426,IMI-M426 APFSDS 1455 m/s
+il_magach_6b_gal_batash,ranging_105mm_imi_m426,IMI-M426 APFSDS 1455 m/s
+il_magach_6c,ranging_105mm_imi_m426,IMI-M426 APFSDS 1455 m/s
+il_magach_6m,ranging_105mm_m111,M111 APFSDS 1455 m/s
+il_magach_6r,ranging_105mm_m111,M111 APFSDS 1455 m/s
+il_magach_7c,ranging_105mm_imi_m426,IMI-M426 APFSDS 1455 m/s
+il_merkava_mk_1,ranging_105mm_m111,M111 APFSDS 1455 m/s
+il_merkava_mk_1b,ranging_105mm_imi_m413,IMI-M413 APFSDS 1455 m/s
+il_merkava_mk_2b_early,ranging_105mm_imi_m413,IMI-M413 APFSDS 1455 m/s
+il_merkava_mk_2d,ranging_105mm_imi_m426,IMI-M426 APFSDS 1455 m/s
+il_merkava_mk_3_raam_segol,ranging_120mm_m322_idf,M322-IDF APFSDS 1705 m/s
+il_merkava_mk_3b,ranging_120mm_m322_idf,M322-IDF APFSDS 1705 m/s
+il_merkava_mk_3c,ranging_120mm_m322_idf,M322-IDF APFSDS 1705 m/s
+il_merkava_mk_4_lic,ranging_120mm_m338,M338 APFSDS 1680 m/s
+il_merkava_mk_4b,ranging_120mm_m338,M338 APFSDS 1680 m/s
+il_merkava_mk_4m,ranging_120mm_m338,M338 APFSDS 1680 m/s
+il_namer_rcws_30,ranging_30mm_mk258,MK258 APFSDS 1430 m/s
+il_namer_tsrikhon,ranging_30mm_mk258,MK258 APFSDS 1430 m/s
+il_sabra_mk1,ranging_120mm_m322_idf,M322-IDF APFSDS 1705 m/s
+il_sholef,ranging_155mm_m107,M107 HE 897 m/s
+il_tcm_20,ranging_20mm_oerlikon_ap,OERLIKON-AP 830 m/s
+il_tiran_4,ranging_100mm_zbk_5,ZBK-5 HEAT-FS 900 m/s
+il_tiran_4_sh,ranging_105mm_imi_m152,IMI-M152 HEAT-FS 1174 m/s
+il_tiran_6,ranging_115mm_3bm3,3BM3 APFSDS 1615 m/s
+il_zsu_23_4,ranging_23mm_apit,APIT 970 m/s
+il_zsu_57_2,ranging_57mm_br_281u_belt,BR-281U-BELT APCBC 1000 m/s
+it_2s1,ranging_122mm_zbk_10,ZBK-10 HEAT-FS 726 m/s
+it_39m_csaba,ranging_20mm_36M_pancelgranat,36M-PANCELGRANAT APHE 762 m/s
+it_40_43m_zrinyi_2,ranging_105mm_42m,42M HEAT 444 m/s
+it_40m_turan_1,ranging_40mm_43m,43M APBC 812 m/s
+it_41m_turan_2,ranging_75mm_42m,42M HEAT 450 m/s
+it_43m_turan_3,ranging_75mm_43m,43M APCBC 770 m/s
+it_44m_zrinyi_1,ranging_75mm_43m,43M APCBC 770 m/s
+it_ab_41,ranging_20mm_perforante_m35_belt,PERFORANTE-M35-BELT AP 832 m/s
+it_ab_43,ranging_47mm_m39_apc,M39-APC APHE 755 m/s
+it_ariete_amv_pt1,ranging_120mm_dm53,DM53 APFSDS 1670 m/s
+it_as_42_47,ranging_47mm_m35_ap,M35-AP APHE 630 m/s
+it_as_42_metropolitana,ranging_20mm_perforante_m35_belt,PERFORANTE-M35-BELT AP 832 m/s
+it_aubl_74_60_70m,ranging_60mm_m300,M300 APFSDS 1620 m/s
+it_b1_centauro,ranging_105mm_m735,M735 APFSDS 1501 m/s
+it_b1_centauro_romor,ranging_105mm_dm33,DM33 APFSDS 1455 m/s
+it_breda_52_autocannone,ranging_90mm_gr_perforante,GR-PERFORANTE APCBC 758 m/s
+it_btr_80a_hungary,ranging_30mm_3UBR8,3UBR8 APDS 1120 m/s
+it_c13_t90,ranging_90mm_m620a1,M620A1 HEAT-FS 890 m/s
+it_c1_ariete,ranging_120mm_dm53,DM53 APFSDS 1670 m/s
+it_c1_ariete_certezza,ranging_120mm_dm53,DM53 APFSDS 1670 m/s
+it_c1_ariete_preserie,ranging_120mm_dm33,DM33 APFSDS 1640 m/s
+it_c1_ariete_pso,ranging_120mm_dm53,DM53 APFSDS 1670 m/s
+it_centauro_2,ranging_120mm_dm53,DM53 APFSDS 1670 m/s
+it_centauro_mgs_120,ranging_120mm_m322,M322 APFSDS 1705 m/s
+it_centauro_rgo_120,ranging_120mm_m322,M322 APFSDS 1705 m/s
+it_dardo_vcc,ranging_25mm_pmb_09,PMB-09 APFSDS 1385 m/s
+it_fiat_6614_106sr,ranging_106mm_m344a1,M344A1 HEAT 503 m/s
+it_fiat_6616_cockerill,ranging_90mm_m620a1,M620A1 HEAT-FS 890 m/s
+it_fiat_6616_ub,ranging_20mm_dm63,DM63 APDS 1150 m/s
+it_fiat_cm52,ranging_ap_ball_M2,AP-BALL-M2 894 m/s
+it_freccia,ranging_25mm_pmb_09,PMB-09 APFSDS 1385 m/s
+it_freccia_hitfist_ows,ranging_30mm_mk258,MK258 APFSDS 1430 m/s
+it_kf_41,ranging_30mm_pmc287,PMC287 APFSDS 1405 m/s
+it_l3_cc,ranging_20mm_perforante_m35,PERFORANTE-M35 APHE 832 m/s
+it_l6,ranging_20mm_perforante_m35_belt,PERFORANTE-M35-BELT AP 832 m/s
+it_l6_leone,ranging_20mm_perforante_m35_belt,PERFORANTE-M35-BELT AP 832 m/s
+it_lancia3ro_100,ranging_105mm_ep_m43,EP-M43 HEAT 431 m/s
+it_lancia_flak38,ranging_20mm_pzgr,PZGR AP 800 m/s
+it_leopard_1a2,ranging_105mm_dm12,DM12 HEAT-FS 1174 m/s
+it_leopard_1a5,ranging_105mm_dm33,DM33 APFSDS 1455 m/s
+it_leopard_2a4,ranging_120mm_dm13,DM13 APFSDS 1650 m/s
+it_leopard_2a7_hungary,ranging_120mm_dm53,DM53 APFSDS 1750 m/s
+it_leopard_bofors,ranging_40mm_im219_ap,IM219-AP 1005 m/s
+it_m109g,ranging_155mm_m107,M107 HE 684 m/s
+it_m11_39,ranging_37mm_perforante,PERFORANTE APHE 640 m/s
+it_m13_40_serie_1,ranging_47mm_m35_ap,M35-AP APHE 630 m/s
+it_m13_40_serie_2,ranging_47mm_m35_ap,M35-AP APHE 630 m/s
+it_m13_40_serie_3,ranging_47mm_m35_ap,M35-AP APHE 630 m/s
+it_m14_41,ranging_47mm_m35_ap,M35-AP APHE 630 m/s
+it_m14_41_47_40,ranging_47mm_m39_apc,M39-APC APHE 755 m/s
+it_m15_42,ranging_47mm_m39_apc,M39-APC APHE 755 m/s
+it_m15_42_contraereo,ranging_20mm_perforante_m35_belt,PERFORANTE-M35-BELT AP 832 m/s
+it_m18_hellcat,ranging_76mm_m62,M62 APCBC 792 m/s
+it_m24_chaffee,ranging_75mm_m61,M61 APCBC 618 m/s
+it_m26_ariete,ranging_90mm_m82,M82 APCBC 853 m/s
+it_m26a1_pershing,ranging_90mm_m82_da90_50,M82-DA90-50 APCBC 853 m/s
+it_m36b1,ranging_90mm_t108_da90_50,T108-DA90-50 HEAT-FS 853 m/s
+it_m3a3_stuart,ranging_37mm_m51b1,M51B1 APCBC 883 m/s
+it_m44,ranging_155mm_m107,M107 HE 563 m/s
+it_m47_105,ranging_105mm_m456,M456 HEAT-FS 1174 m/s
+it_m4a4_sherman,ranging_75mm_m61,M61 APCBC 618 m/s
+it_m55,ranging_203mm_m106,M106 HE 594 m/s
+it_m60a1_ariete,ranging_105mm_m456,M456 HEAT-FS 1174 m/s
+it_of_40_mk_1,ranging_105mm_m456,M456 HEAT-FS 1174 m/s
+it_of_40_mk_2a,ranging_105mm_dm23,DM23 APFSDS 1455 m/s
+it_of_40_mtca,ranging_105mm_dm33,DM33 APFSDS 1455 m/s
+it_oto_r3_106sr,ranging_106mm_m344a1,M344A1 HEAT 503 m/s
+it_oto_r3_t20_fa,ranging_20mm_m601,M601 APCR 1100 m/s
+it_otobreda_sidam_25,ranging_25mm_m791,M791 APDS 1330 m/s
+it_otobreda_sidam_25_mistral,ranging_25mm_m791,M791 APDS 1330 m/s
+it_otomatic,ranging_76mm_oto_apfsds,OTO-APFSDS 1580 m/s
+it_p_26_40,ranging_75mm_m42_eps,M42-EPS HEAT 552 m/s
+it_p_40,ranging_75mm_m42_eps,M42-EPS HEAT 552 m/s
+it_palmaria,ranging_155mm_p3,P3 HE 827 m/s
+it_pzh_2000,ranging_155mm_oe_f3,OE-F3 HE 935 m/s
+it_pzh_2000_hu,ranging_155mm_oe_f3,OE-F3 HE 935 m/s
+it_pzkpfw_III_ausf_N,ranging_75mm_grhl_38_c,GRHL-38-C HEAT 450 m/s
+it_pzkpfw_IV_ausf_G,ranging_75mm_pzgr_39,PZGR-39 APCBC 770 m/s
+it_pzkpfw_VI_ausf_e_tiger,ranging_88mm_pzrg_39,PZRG-39 APCBC 773 m/s
+it_sahariano,ranging_47mm_m39_apc,M39-APC APHE 755 m/s
+it_semovente_breda_501,ranging_90mm_gr_perforante,GR-PERFORANTE APCBC 758 m/s
+it_semovente_l40,ranging_47mm_m35_ap,M35-AP APHE 630 m/s
+it_semovente_m41_75_18,ranging_75mm_eps_m42,EPS-M42 HEAT 399 m/s
+it_semovente_m41_75_32,ranging_75mm_eps_m42,EPS-M42 HEAT 580 m/s
+it_semovente_m41m_90,ranging_90mm_gr_perforante,GR-PERFORANTE APCBC 758 m/s
+it_semovente_m42_75_34,ranging_75mm_m42_eps,M42-EPS HEAT 552 m/s
+it_semovente_m43_105,ranging_105mm_ep_m43,EP-M43 HEAT 510 m/s
+it_semovente_m43_105_leoncello,ranging_105mm_ep_m43,EP-M43 HEAT 510 m/s
+it_semovente_m43_75_34,ranging_75mm_m42_eps,M42-EPS HEAT 552 m/s
+it_semovente_m43_75_46,ranging_gr_perforante_mod_39,GR-PERFORANTE-MOD-39 APCBC 792 m/s
+it_sherman_75_37,ranging_75mm_m61,M61 APCBC 618 m/s
+it_sherman_VII,ranging_76mm_shot_mk8_apcbc,SHOT-MK8-APCBC 883 m/s
+it_sherman_vc_firefly,ranging_76mm_shot_sv_mk1_apds,SHOT-SV-MK1-APDS 1204 m/s
+it_stug_III_ausf_G,ranging_75mm_pzgr_39,PZGR-39 APCBC 770 m/s
+it_t_72m1,ranging_125mm_3bm15,3BM15 APFSDS 1780 m/s
+it_toldi_II_a,ranging_40mm_43m,43M APBC 800 m/s
+it_v_4_straussler,ranging_40mm_43m,43M APBC 800 m/s
+it_vbc_pt2,ranging_25mm_pmb_09,PMB-09 APFSDS 1385 m/s
+it_vcc_80_hitfist_30,ranging_30mm_mk258,MK258 APFSDS 1430 m/s
+it_vcc_80_hitfist_60,ranging_60mm_m300,M300 APFSDS 1620 m/s
+it_vrcc_centauro,ranging_105mm_dm33,DM33 APFSDS 1455 m/s
+it_zsu_23_4,ranging_23mm_apit,APIT 970 m/s
+it_zsu_57_2,ranging_57mm_br_281u_belt,BR-281U-BELT APCBC 1000 m/s
+jp_bmp_3f,ranging_30mm_3UBR8,3UBR8 APDS 1120 m/s
+jp_btr_3e1,ranging_30mm_3UBR8,3UBR8 APDS 1120 m/s
+jp_halftrack_m16,ranging_ap_ball_M2,AP-BALL-M2 894 m/s
+jp_harimau,ranging_105mm_dm63,DM63 APFSDS 1455 m/s
+jp_hiro_sha,ranging_120mm_schneider_canet_common,SCHNEIDER-CANET-COMMON SAP 580 m/s
+jp_icv_ifv_prototype,ranging_30mm_mk258,MK258 APFSDS 1430 m/s
+jp_icv_prototype,ranging_30mm_mk258,MK258 APFSDS 1430 m/s
+jp_leopard_2ri,ranging_120mm_dm53,DM53 APFSDS 1670 m/s
+jp_m163_vulcan,ranging_20mm_m53,M53 AP 1030 m/s
+jp_m19,ranging_40mm_M81A1,M81A1 AP 875 m/s
+jp_m24_chaffee,ranging_75mm_m61,M61 APCBC 618 m/s
+jp_m36b2_jgsdf,ranging_90mm_m348,M348 HEAT-FS 853 m/s
+jp_m41_walker_bulldog,ranging_76mm_m331a2,M331A2 APDS 1257 m/s
+jp_m42_duster,ranging_40mm_M81A1,M81A1 AP 875 m/s
+jp_m44,ranging_155mm_m107,M107 HE 563 m/s
+jp_m47_patton_II,ranging_90mm_m431,M431 HEAT-FS 1216 m/s
+jp_m4a3e8_76w_sherman,ranging_76mm_m62,M62 APCBC 792 m/s
+jp_m60a3_tts,ranging_105mm_dm33,DM33 APFSDS 1455 m/s
+jp_navy_120mm_spg,ranging_120mm_common_he_base_fuze,COMMON-HE-BASE-FUZE SAP 825 m/s
+jp_oplot_t,ranging_125mm_bta4,BTA4 APFSDS 1740 m/s
+jp_pzkpfw_VI_ausf_e_tiger,ranging_88mm_pzrg_39,PZRG-39 APCBC 773 m/s
+jp_st_a1,ranging_90mm_m348,M348 HEAT-FS 853 m/s
+jp_st_a2,ranging_90mm_m348,M348 HEAT-FS 853 m/s
+jp_st_a3,ranging_90mm_m431,M431 HEAT-FS 1216 m/s
+jp_st_b1,ranging_105mm_m392a2,M392A2 APDS 1478 m/s
+jp_stingray,ranging_105mm_dm33,DM33 APFSDS 1455 m/s
+jp_sub_i_ii_20mm,ranging_20mm_dm63,DM63 APDS 1150 m/s
+jp_tkx_prot,ranging_120mm_type_10,TYPE-10 APFSDS 1780 m/s
+jp_type_10,ranging_120mm_type_10,TYPE-10 APFSDS 1780 m/s
+jp_type_10_prototype,ranging_120mm_jm33,JM33 APFSDS 1640 m/s
+jp_type_16,ranging_105mm_type93,TYPE93 APFSDS 1501 m/s
+jp_type_16_mcv_prot,ranging_105mm_m735,M735 APFSDS 1501 m/s
+jp_type_16_mod,ranging_105mm_m735,M735 APFSDS 1501 m/s
+jp_type_1_chi_he,ranging_47mm_type1_ap,TYPE1-AP APHE 808 m/s
+jp_type_1_chi_he_5th_regiment,ranging_47mm_type1_ap,TYPE1-AP APHE 808 m/s
+jp_type_2_ho_i,ranging_75mm_type2,TYPE2 HEAT 350 m/s
+jp_type_2_ho_ni_2,ranging_105mm_type91_heat,TYPE91-HEAT 337 m/s
+jp_type_2_ka_mi,ranging_37mm_type1_ap,TYPE1-AP APHE 800 m/s
+jp_type_3_chi_nu,ranging_75mm_type1_ap,TYPE1-AP APHE 668 m/s
+jp_type_3_chi_nu_75cm_type_5,ranging_75mm_type4_ap_kou,TYPE4-AP-KOU APHE 865 m/s
+jp_type_3_ho_ni_I,ranging_75mm_type1_ap,TYPE1-AP APHE 668 m/s
+jp_type_3_ho_ni_III,ranging_75mm_type1_ap,TYPE1-AP APHE 668 m/s
+jp_type_3_ka_chi,ranging_47mm_type1_ap,TYPE1-AP APHE 808 m/s
+jp_type_4_chi_to,ranging_75mm_type4_ap_kou,TYPE4-AP-KOU APHE 865 m/s
+jp_type_4_chi_to_late,ranging_75mm_type4_ap_kou,TYPE4-AP-KOU APHE 865 m/s
+jp_type_4_ho_ro,ranging_150mm_type_95,TYPE-95 APHE 290 m/s
+jp_type_5_chi_ri,ranging_75mm_type4_ap_kou,TYPE4-AP-KOU APHE 865 m/s
+jp_type_5_ho_ri_production,ranging_105mm_type2_aphe,TYPE2-APHE 1000 m/s
+jp_type_5_ho_ri_prototype,ranging_105mm_type2_aphe,TYPE2-APHE 916 m/s
+jp_type_5_na_to,ranging_75mm_type_4_apcr,TYPE-4-APCR 930 m/s
+jp_type_60_sprg,ranging_106mm_type_64_heat,TYPE-64-HEAT 503 m/s
+jp_type_61,ranging_90mm_m431,M431 HEAT-FS 1216 m/s
+jp_type_61_mod,ranging_90mm_m431,M431 HEAT-FS 1216 m/s
+jp_type_74,ranging_105mm_type93,TYPE93 APFSDS 1501 m/s
+jp_type_74_c,ranging_105mm_m456,M456 HEAT-FS 1174 m/s
+jp_type_74_f,ranging_105mm_type93,TYPE93 APFSDS 1501 m/s
+jp_type_74_mod_g_kai,ranging_105mm_type93,TYPE93 APFSDS 1501 m/s
+jp_type_74_red_star,ranging_105mm_m456,M456 HEAT-FS 1174 m/s
+jp_type_75,ranging_155mm_type75,TYPE75 HE 720 m/s
+jp_type_87,ranging_35_228mm_apds_t,APDS-T 1400 m/s
+jp_type_87_rcv,ranging_25mm_pmb_09,PMB-09 APFSDS 1385 m/s
+jp_type_87_rcv_prot,ranging_20mm_dm63,DM63 APDS 1150 m/s
+jp_type_89,ranging_35_228mm_apds_t_belt,APDS-T-BELT 1400 m/s
+jp_type_89b_i_go_otsu,ranging_57mm_type3,TYPE3 HEAT 380 m/s
+jp_type_90,ranging_120mm_jm33,JM33 APFSDS 1640 m/s
+jp_type_90b,ranging_120mm_jm33,JM33 APFSDS 1640 m/s
+jp_type_90b_camo,ranging_120mm_jm33,JM33 APFSDS 1640 m/s
+jp_type_90b_sm,ranging_120mm_jm33,JM33 APFSDS 1640 m/s
+jp_type_94,ranging_20mm_type100_ap,TYPE100-AP 928 m/s
+jp_type_95_ha_go,ranging_37mm_aphe,APHE 575 m/s
+jp_type_95_ha_go_commander,ranging_37mm_aphe,APHE 575 m/s
+jp_type_95_heavy,ranging_70mm_type3,TYPE3 HEAT 200 m/s
+jp_type_95_so_ki,ranging_20mm_type100_ap,TYPE100-AP 928 m/s
+jp_type_97_chi_ha,ranging_57mm_type3,TYPE3 HEAT 380 m/s
+jp_type_97_chi_ha_12cm,ranging_120mm_type88_mod4_fuze,TYPE88-MOD4-FUZE HE 290 m/s
+jp_type_97_kai,ranging_47mm_type1_ap,TYPE1-AP APHE 808 m/s
+jp_type_97_kai_td,ranging_47mm_type1_ap,TYPE1-AP APHE 808 m/s
+jp_type_98_ke_ni,ranging_37mm_type1_ap,TYPE1-AP APHE 700 m/s
+jp_type_98_ta_se,ranging_20mm_type100_ap,TYPE100-AP 928 m/s
+jp_type_99,ranging_155mm_l15_a2,L15-A2 HE 940 m/s
+sw_a_34_comet,ranging_76mm_shot_sv_mk1_apds,SHOT-SV-MK1-APDS 1036 m/s
+sw_bkan_1c,ranging_155mm_sgr_m60,SGR-M60 HE 850 m/s
+sw_bmp_2md,ranging_30mm_3UBR8,3UBR8 APDS 1120 m/s
+sw_bt_42,ranging_114mm_hkr,HKR HEAT 357 m/s
+sw_charioteer_mk_7,ranging_83mm_shot_mk3,SHOT-MK3 APDS 1433 m/s
+sw_cv_90105,ranging_105mm_dm23,DM23 APFSDS 1455 m/s
+sw_cv_90105_tml,ranging_105mm_dm33,DM33 APFSDS 1455 m/s
+sw_cv_90120,ranging_120mm_slpprj_m95,SLPPRJ-M95 APFSDS 1740 m/s
+sw_cv_9030_fin,ranging_30mm_mk258,MK258 APFSDS 1430 m/s
+sw_cv_9035_dk,ranging_35mm_pmc343,PMC343 APFSDS 1400 m/s
+sw_cv_90_mk4,ranging_30mm_mk258,MK258 APFSDS 1430 m/s
+sw_ikv_103,ranging_105mm_slpsgr_m65,SLPSGR-M65 HEAT-FS 530 m/s
+sw_ikv_72,ranging_75mm_slpprj_m40,SLPPRJ-M40 AP 580 m/s
+sw_ikv_73,ranging_75mm_slpprj_m40,SLPPRJ-M40 AP 580 m/s
+sw_ikv_91,ranging_90mm_slpsgr_m72,SLPSGR-M72 HEAT-FS 825 m/s
+sw_ikv_91_105,ranging_105mm_slpprj_m80,SLPPRJ-M80 APFSDS 1455 m/s
+sw_itpsv_90,ranging_35_228mm_apds_t,APDS-T 1400 m/s
+sw_k9_vidar,ranging_155mm_oe_f3,OE-F3 HE 935 m/s
+sw_kungstiger,ranging_88mm_pzrg_39_43,PZRG-39-43 APCBC 1000 m/s
+sw_kv_1_1942_fin,ranging_76mm_br_350a,BR-350A APHEBC 662 m/s
+sw_l_62_anti_II,ranging_40mm_slpprj_m42,SLPPRJ-M42 APC 800 m/s
+sw_lago_1,ranging_37mm_slpprj_m49,SLPPRJ-M49 APDS 1150 m/s
+sw_landsverk_ush_204_gk,ranging_20mm_m601,M601 APCR 1100 m/s
+sw_leopard_1a5no,ranging_105mm_dm33,DM33 APFSDS 1455 m/s
+sw_leopard_2a4_fin,ranging_120mm_dm13,DM13 APFSDS 1650 m/s
+sw_leopard_2a6nl,ranging_120mm_dm53,DM53 APFSDS 1750 m/s
+sw_leopard_2a8no,ranging_120mm_dm53,DM53 APFSDS 1750 m/s
+sw_lvkv_42,ranging_40mm_slpprj_m42b,SLPPRJ-M42B AP 910 m/s
+sw_lvkv_90c,ranging_40mm_slpprj_m90,SLPPRJ-M90 APFSDS 1465 m/s
+sw_m24_chaffee_dk,ranging_75mm_m61,M61 APCBC 618 m/s
+sw_patria_amv_ctcv_105,ranging_105mm_dm33,DM33 APFSDS 1455 m/s
+sw_patria_bmp_3,ranging_30mm_3UBR8,3UBR8 APDS 1120 m/s
+sw_pbil_m40,ranging_20mm_slpgr_m42,SLPGR-M42 AP 845 m/s
+sw_pbv_301,ranging_20mm_slpgr_m42,SLPGR-M42 AP 845 m/s
+sw_pbv_302_bill,ranging_20mm_slpprj_m42,SLPPRJ-M42 AP 830 m/s
+sw_pbv_501,ranging_73mm_pg_9,PG-9 HEAT 665 m/s
+sw_pt_76b,ranging_76mm_bk_354m,BK-354M HEAT-FS 700 m/s
+sw_pv_m39,ranging_20mm_slpgr_m42,SLPGR-M42 AP 845 m/s
+sw_pvkv_II,ranging_75mm_slpgr_m43,SLPGR-M43 APCBC 925 m/s
+sw_pvkv_III,ranging_57mm_slpprj_m43,SLPPRJ-M43 AP 830 m/s
+sw_pvkv_iv,ranging_57mm_slpprj_m49,SLPPRJ-M49 APDS 1150 m/s
+sw_pvkv_m43_1946,ranging_75mm_slpgr_m43,SLPGR-M43 APCBC 890 m/s
+sw_pvkv_m43_1963,ranging_75mm_slpgr_m43,SLPGR-M43 APCBC 890 m/s
+sw_pvlvv_fm42,ranging_20mm_slpgr_m42,SLPGR-M42 AP 845 m/s
+sw_pzkpfw_IV_ausf_J,ranging_75mm_pzgr_39,PZGR-39 APCBC 770 m/s
+sw_sav_fm48,ranging_120mm_m50,M50 APCBC 525 m/s
+sw_sav_m43_1944,ranging_75mm_slpprj_m40,SLPPRJ-M40 AP 501 m/s
+sw_sav_m43_1946,ranging_105mm_psgr_m49,PSGR-M49 HEAT 425 m/s
+sw_sherman_3_4,ranging_75mm_m61,M61 APCBC 618 m/s
+sw_stormpjas_fm43_44,ranging_150mm_sgr_m38,SGR-M38 HE 285 m/s
+sw_strf_9056,ranging_40mm_slpprj_m90,SLPPRJ-M90 APFSDS 1465 m/s
+sw_strf_90b,ranging_40mm_slpprj_m90,SLPPRJ-M90 APFSDS 1465 m/s
+sw_strf_90c,ranging_40mm_slpprj_m01,SLPPRJ-M01 APFSDS 1495 m/s
+sw_strv121b_christian2,ranging_120mm_dm13,DM13 APFSDS 1650 m/s
+sw_strv_101,ranging_105mm_slpprj_m61,SLPPRJ-M61 APDS 1478 m/s
+sw_strv_103_0,ranging_105mm_slpprj_m61,SLPPRJ-M61 APDS 1500 m/s
+sw_strv_103a,ranging_105mm_slpprj_m61,SLPPRJ-M61 APDS 1500 m/s
+sw_strv_103c,ranging_105mm_slpprj_m80,SLPPRJ-M80 APFSDS 1455 m/s
+sw_strv_104,ranging_105mm_slpprj_m80,SLPPRJ-M80 APFSDS 1455 m/s
+sw_strv_105,ranging_105mm_slpprj_m90c,SLPPRJ-M90C APFSDS 1455 m/s
+sw_strv_121,ranging_120mm_dm13,DM13 APFSDS 1650 m/s
+sw_strv_122,ranging_120mm_dm53,DM53 APFSDS 1670 m/s
+sw_strv_122b_plss,ranging_120mm_dm53,DM53 APFSDS 1670 m/s
+sw_strv_122b_plus,ranging_120mm_dm53,DM53 APFSDS 1670 m/s
+sw_strv_74,ranging_75mm_slpgr_m43,SLPGR-M43 APCBC 925 m/s
+sw_strv_81,ranging_83mm_pvlng_m54,PVLNG-M54 APDS 1433 m/s
+sw_strv_81_rb52,ranging_83mm_pvlng_m54,PVLNG-M54 APDS 1433 m/s
+sw_strv_m31,ranging_37mm_slpprj_m49,SLPPRJ-M49 APDS 1150 m/s
+sw_strv_m38,ranging_37mm_slpprj_m49,SLPPRJ-M49 APDS 1150 m/s
+sw_strv_m39,ranging_37mm_slpprj_m49,SLPPRJ-M49 APDS 1150 m/s
+sw_strv_m39_td,ranging_37mm_slpprj_m49,SLPPRJ-M49 APDS 1150 m/s
+sw_strv_m40l,ranging_37mm_slpprj_m49,SLPPRJ-M49 APDS 1150 m/s
+sw_strv_m41_s1,ranging_37mm_slpprj_m49,SLPPRJ-M49 APDS 1150 m/s
+sw_strv_m41_s2,ranging_37mm_slpprj_m49,SLPPRJ-M49 APDS 1150 m/s
+sw_strv_m42_delat_torn,ranging_75mm_slpgr_m43,SLPGR-M43 APCBC 890 m/s
+sw_strv_m42_eh,ranging_75mm_slpprj_m40,SLPPRJ-M40 AP 580 m/s
+sw_t_28,ranging_76mm_of_350m,OF-350M HE 560 m/s
+sw_t_34_1941,ranging_76mm_br_350a,BR-350A APHEBC 662 m/s
+sw_t_34_85_zis_53,ranging_85mm_br_365k,BR-365K APHE 792 m/s
+sw_t_50_fin,ranging_45mm_br_243sp,BR-243SP APBC 757 m/s
+sw_t_54_1951,ranging_100mm_zbk_5,ZBK-5 HEAT-FS 900 m/s
+sw_t_55m,ranging_100mm_m1000a1,M1000A1 APFSDS 1475 m/s
+sw_t_72m1,ranging_125mm_3bm15,3BM15 APFSDS 1780 m/s
+sw_t_80u,ranging_125mm_3bm42,3BM42 APFSDS 1700 m/s
+sw_tgdgb_m40_lv,ranging_40mm_slpprj_m42,SLPPRJ-M42 APC 800 m/s
+sw_veak_40,ranging_40mm_slpprj_m42b,SLPPRJ-M42B AP 910 m/s
+sw_vickers_mk_e_37,ranging_37mm_psav,PSAV AP 810 m/s
+sw_vickers_mk_e_45,ranging_45mm_br_243sp,BR-243SP APBC 757 m/s
+sw_zsu_57_2,ranging_57mm_br_281u_belt,BR-281U-BELT APCBC 1000 m/s
+uk_17_pdr_m10_achilles,ranging_76mm_shot_mk8_apcbc,SHOT-MK8-APCBC 883 m/s
+uk_17_pdr_m10_achilles_norfolk_yeomanry,ranging_76mm_shot_mk8_apcbc,SHOT-MK8-APCBC 883 m/s
+uk_3_inch_gun_carrier,ranging_76mm_shot_mk2_ap,SHOT-MK2-AP 853 m/s
+uk_a17_mk_1_tetrarch,ranging_40mm_shot_mk1_apcbct,SHOT-MK1-APCBCT 792 m/s
+uk_a1e1_independent,ranging_47mm_aphe,APHE 563 m/s
+uk_a25_mk_8,ranging_40mm_shot_mk1_apcbct,SHOT-MK1-APCBCT 792 m/s
+uk_a27m_cromwell_1,ranging_57mm_shot_mk9t,SHOT-MK9T APCBC 801 m/s
+uk_a27m_cromwell_5,ranging_75mm_m61,M61 APCBC 618 m/s
+uk_a27m_cromwell_5_rp3,ranging_75mm_m61,M61 APCBC 618 m/s
+uk_a30_challenger,ranging_76mm_shot_sv_mk1_apds,SHOT-SV-MK1-APDS 1204 m/s
+uk_a30_sp_avenger,ranging_76mm_shot_mk8_apcbc,SHOT-MK8-APCBC 883 m/s
+uk_a30_sp_avenger_kit_3rank,ranging_76mm_shot_mk8_apcbc,SHOT-MK8-APCBC 883 m/s
+uk_a39_tortoise,ranging_94mm_shot_mk1,SHOT-MK1 APCBC 929 m/s
+uk_a_12_mk_2_matilda_2,ranging_40mm_shot_mk1_apcbct,SHOT-MK1-APCBCT 792 m/s
+uk_a_13_mk1,ranging_40mm_shot_mk1_apcbct,SHOT-MK1-APCBCT 792 m/s
+uk_a_13_mk1_3rd_rtr,ranging_40mm_shot_mk1_apcbct,SHOT-MK1-APCBCT 792 m/s
+uk_a_13_mk2,ranging_40mm_shot_mk1_apcbct,SHOT-MK1-APCBCT 792 m/s
+uk_a_13_mk2_1939,ranging_40mm_shot_mk1_apcbct,SHOT-MK1-APCBCT 792 m/s
+uk_a_22_mk_1_churchill_1941,ranging_40mm_shot_mk1_apcbct,SHOT-MK1-APCBCT 792 m/s
+uk_a_22b_mk_3_churchill_1942,ranging_57mm_shot_mk9t,SHOT-MK9T APCBC 847 m/s
+uk_a_22f_mk_7_churchill_1944,ranging_75mm_m61,M61 APCBC 618 m/s
+uk_a_22f_mk_7_churchill_crocodile,ranging_75mm_m61,M61 APCBC 618 m/s
+uk_a_33_excelsior,ranging_75mm_m61,M61 APCBC 618 m/s
+uk_a_34_comet,ranging_76mm_shot_sv_mk1_apds,SHOT-SV-MK1-APDS 1036 m/s
+uk_a_34_comet_iron_duke,ranging_76mm_shot_sv_mk1_apds,SHOT-SV-MK1-APDS 1036 m/s
+uk_a_43_black_prince,ranging_76mm_shot_sv_mk1_apds,SHOT-SV-MK1-APDS 1204 m/s
+uk_ac1_sentinel,ranging_40mm_shot_mk1_apcbct,SHOT-MK1-APCBCT 792 m/s
+uk_ac4_thunderbolt,ranging_76mm_shot_mk8_apcbc,SHOT-MK8-APCBC 883 m/s
+uk_ajax,ranging_40mm_gpr_ke_t_apfsds,GPR-KE-T-APFSDS 1510 m/s
+uk_alecto_mk_1,ranging_95mm_shell_heat,SHELL-HEAT 502 m/s
+uk_arjun_mk1,ranging_120mm_Arjun_Mk2,ARJUN-MK2 APFSDS 1670 m/s
+uk_armored_car_aec_mk_2,ranging_57mm_shot_mk9t,SHOT-MK9T APCBC 847 m/s
+uk_armored_car_mk_2_aa,ranging_20mm_oerlikon_ap,OERLIKON-AP 830 m/s
+uk_as_90_mk_2,ranging_155mm_l15_a2,L15-A2 HE 810 m/s
+uk_badger,ranging_30mm_mk258,MK258 APFSDS 1430 m/s
+uk_bosvark,ranging_23mm_apit,APIT 970 m/s
+uk_boxer_crv_block2,ranging_30mm_pmc287,PMC287 APFSDS 1405 m/s
+uk_centurion_action_x,ranging_83mm_shot_mk3,SHOT-MK3 APDS 1433 m/s
+uk_centurion_mk_1,ranging_76mm_shot_sv_mk1_apds,SHOT-SV-MK1-APDS 1204 m/s
+uk_centurion_mk_10,ranging_105mm_l28a1,L28A1 APDS 1478 m/s
+uk_centurion_mk_2,ranging_76mm_shot_sv_mk1_apds,SHOT-SV-MK1-APDS 1204 m/s
+uk_centurion_mk_3,ranging_83mm_shot_mk3,SHOT-MK3 APDS 1433 m/s
+uk_centurion_mk_3_ss11,ranging_83mm_pvlng_m54,PVLNG-M54 APDS 1433 m/s
+uk_centurion_mk_5_avre_era,ranging_165mm_l33a1,L33A1 HESH 259 m/s
+uk_centurion_mk_5_raac,ranging_83mm_shot_mk3,SHOT-MK3 APDS 1433 m/s
+uk_centurion_shot_kal_d,ranging_105mm_m111,M111 APFSDS 1455 m/s
+uk_challenger_1,ranging_120mm_l23a1,L23A1 APFSDS 1535 m/s
+uk_challenger_1_mk_3_gulf,ranging_120mm_l26,L26 APFSDS 1550 m/s
+uk_challenger_2_bn,ranging_120mm_l27a1,L27A1 APFSDS 1650 m/s
+uk_challenger_2_dorchester,ranging_120mm_l27a1,L27A1 APFSDS 1650 m/s
+uk_challenger_2_lep,ranging_120mm_dm53,DM53 APFSDS 1750 m/s
+uk_challenger_2_megatron,ranging_120mm_l27a1,L27A1 APFSDS 1650 m/s
+uk_challenger_2_megatron_sm,ranging_120mm_l27a1,L27A1 APFSDS 1650 m/s
+uk_challenger_2_tes,ranging_120mm_l27a1,L27A1 APFSDS 1650 m/s
+uk_challenger_2e,ranging_120mm_l27a1,L27A1 APFSDS 1650 m/s
+uk_challenger_II,ranging_120mm_l27a1,L27A1 APFSDS 1650 m/s
+uk_challenger_II_yt_cup_2019,ranging_120mm_l27a1,L27A1 APFSDS 1650 m/s
+uk_challenger_mk_3,ranging_120mm_l26,L26 APFSDS 1550 m/s
+uk_charioteer_mk_7,ranging_83mm_shot_mk3,SHOT-MK3 APDS 1433 m/s
+uk_chieftain_900,ranging_120mm_l23a1,L23A1 APFSDS 1535 m/s
+uk_chieftain_marksman,ranging_35_228mm_apds_t,APDS-T 1400 m/s
+uk_chieftain_mk_10,ranging_120mm_l23a1,L23A1 APFSDS 1535 m/s
+uk_chieftain_mk_3,ranging_120mm_l15a3,L15A3 APDS 1372 m/s
+uk_chieftain_mk_5,ranging_120mm_l15a3,L15A3 APDS 1372 m/s
+uk_churchill_na75,ranging_75mm_m61,M61 APCBC 618 m/s
+uk_concept3_ngac,ranging_76mm_shot_mk8_apcbc,SHOT-MK8-APCBC 785 m/s
+uk_conqueror_mk_2,ranging_120mm_l1g,L1G APDS 1493 m/s
+uk_cruiser_ram_1,ranging_40mm_shot_mk1_apcbct,SHOT-MK1-APCBCT 792 m/s
+uk_crusader_aa_mk_1,ranging_40mm_M81A1,M81A1 AP 875 m/s
+uk_crusader_aa_mk_2,ranging_20mm_oerlikon_ap,OERLIKON-AP 830 m/s
+uk_crusader_aa_mk_2_kit_3rank,ranging_20mm_oerlikon_ap,OERLIKON-AP 830 m/s
+uk_crusader_aa_mk_2_tutorial,ranging_20mm_oerlikon_ap,OERLIKON-AP 830 m/s
+uk_crusader_mk_2,ranging_40mm_shot_mk1_apcbct,SHOT-MK1-APCBCT 792 m/s
+uk_crusader_mk_2_the_saint,ranging_40mm_shot_mk1_apcbct,SHOT-MK1-APCBCT 792 m/s
+uk_crusader_mk_3,ranging_57mm_shot_mk9t,SHOT-MK9T APCBC 801 m/s
+uk_daimler_mk_2,ranging_40mm_shot_mk1_apcbct,SHOT-MK1-APCBCT 792 m/s
+uk_desert_warrior,ranging_25mm_pmb_09,PMB-09 APFSDS 1385 m/s
+uk_eland_90_mk_7,ranging_90mm_occ_90_62,OCC-90-62 HEAT-FS 800 m/s
+uk_falcon,ranging_30_170mm_aphe_i,APHE-I SAP 1080 m/s
+uk_fv107_scimitar,ranging_30_170mm_apds_t,APDS-T 1175 m/s
+uk_fv107_scimitar_mk2,ranging_30mm_l21a1,L21A1 APFSDS 1325 m/s
+uk_fv221_caernarvon,ranging_83mm_shot_mk3,SHOT-MK3 APDS 1433 m/s
+uk_fv4004_conway,ranging_120mm_l1g,L1G APDS 1493 m/s
+uk_fv4005,ranging_183mm_hesh,HESH 716 m/s
+uk_fv4202,ranging_83mm_shot_mk3,SHOT-MK3 APDS 1433 m/s
+uk_fv510_isv,ranging_30_170mm_apds_t,APDS-T 1175 m/s
+uk_fv721_fox,ranging_30_170mm_apds_t,APDS-T 1175 m/s
+uk_g6_spg,ranging_155mm_m1,M1 HE 897 m/s
+uk_garford_putilov_event,ranging_76mm_1910_he,1910-HE 381 m/s
+uk_khalid,ranging_120mm_l23a1,L23A1 APFSDS 1535 m/s
+uk_m109a1,ranging_155mm_m107,M107 HE 684 m/s
+uk_m1a1_aim_abrams,ranging_120mm_ke_w,KE-W APFSDS 1585 m/s
+uk_m1a2_sep3_abrams,ranging_120mm_ke_w_a2,KE-W-A2 APFSDS 1700 m/s
+uk_m3_stuart,ranging_37mm_m51b1,M51B1 APCBC 870 m/s
+uk_m3a1_stuart,ranging_37mm_m51b1,M51B1 APCBC 883 m/s
+uk_m44,ranging_155mm_m107,M107 HE 563 m/s
+uk_m4a5_ram_2,ranging_57mm_shot_mk9t,SHOT-MK9T APCBC 801 m/s
+uk_mark_v,ranging_57mm_qf_ap,QF-AP APHE 411 m/s
+uk_mark_v_event,ranging_57mm_qf_ap,QF-AP APHE 411 m/s
+uk_marmon_herrington_mk_6_2pdr,ranging_40mm_shot_mk1_apcbct,SHOT-MK1-APCBCT 792 m/s
+uk_marmon_herrington_mk_6_6pdr,ranging_57mm_shot_mk9t,SHOT-MK9T APCBC 801 m/s
+uk_matilda_hedgehog,ranging_40mm_shot_mk1_apcbct,SHOT-MK1-APCBCT 792 m/s
+uk_mk1_grant,ranging_37mm_m51b1,M51B1 APCBC 870 m/s
+uk_olifant_mk_1a,ranging_105mm_m111,M111 APFSDS 1455 m/s
+uk_olifant_mk_2,ranging_105mm_fs_mk3,FS-MK3 APFSDS 1455 m/s
+uk_olifant_optimering,ranging_105mm_fs_mk3,FS-MK3 APFSDS 1455 m/s
+uk_ram_90mm_aa,ranging_94mm_shot_mk1,SHOT-MK1 APCBC 792 m/s
+uk_ratel_20,ranging_20mm_m601,M601 APCR 1100 m/s
+uk_ratel_90,ranging_90mm_occ_90_62,OCC-90-62 HEAT-FS 800 m/s
+uk_rooikat_105_td,ranging_105mm_dm33,DM33 APFSDS 1455 m/s
+uk_rooikat_76,ranging_76mm_oto_apfsds,OTO-APFSDS 1615 m/s
+uk_rooikat_mttd,ranging_105mm_dm33,DM33 APFSDS 1455 m/s
+uk_rooikat_za_35,ranging_35_228mm_aphe_i,APHE-I 1175 m/s
+uk_saint_chamond_event,ranging_75mm_mle1910m,MLE1910M APHE 570 m/s
+uk_sarc_mk4_a,ranging_40mm_shot_mk1_apcbct,SHOT-MK1-APCBCT 792 m/s
+uk_sherman_II,ranging_75mm_m61,M61 APCBC 618 m/s
+uk_sherman_ic_firefly,ranging_76mm_shot_mk8_apcbc,SHOT-MK8-APCBC 883 m/s
+uk_sherman_vc_firefly,ranging_76mm_shot_mk8_apcbc,SHOT-MK8-APCBC 883 m/s
+uk_sherman_vc_firefly_kit_3rank,ranging_76mm_shot_mk8_apcbc,SHOT-MK8-APCBC 883 m/s
+uk_shir_2,ranging_120mm_l23a1,L23A1 APFSDS 1535 m/s
+uk_skink_aa,ranging_20mm_oerlikon_ap,OERLIKON-AP 830 m/s
+uk_sp_17_pdr_valentine,ranging_76mm_shot_mk8_apcbc,SHOT-MK8-APCBC 883 m/s
+uk_stormer_air_defence,ranging_25mm_pgu_20_u,PGU-20-U APCR 1036 m/s
+uk_t17e2,ranging_ap_ball_M2,AP-BALL-M2 894 m/s
+uk_t_90s_bheeshma,ranging_125mm_3bm42,3BM42 APFSDS 1700 m/s
+uk_tog_2,ranging_94mm_shot_mk1,SHOT-MK1 APCBC 792 m/s
+uk_ttd,ranging_105mm_dm63,DM63 APFSDS 1455 m/s
+uk_valentine_mk_1,ranging_40mm_shot_mk1_apcbct,SHOT-MK1-APCBCT 792 m/s
+uk_valentine_mk_11,ranging_75mm_m61,M61 APCBC 618 m/s
+uk_valentine_mk_9,ranging_57mm_shot_mk9t,SHOT-MK9T APCBC 801 m/s
+uk_vfm_5,ranging_105mm_dm33,DM33 APFSDS 1455 m/s
+uk_vickers_gbt_155,ranging_155mm_l15_a2,L15-A2 HE 684 m/s
+uk_vickers_mbt_mk_1,ranging_105mm_l28a1,L28A1 APDS 1478 m/s
+uk_vickers_mbt_mk_3,ranging_105mm_m456,M456 HEAT-FS 1174 m/s
+uk_vickers_mk7,ranging_120mm_l26,L26 APFSDS 1550 m/s
+uk_vickers_mk_11,ranging_105mm_c76a1,C76A1 APFSDS 1509 m/s
+uk_vickers_mk_6_aa_mk_1,ranging_ap_ball_783,AP-BALL-783 783 m/s
+uk_vijayanta,ranging_105mm_m456,M456 HEAT-FS 1174 m/s
+uk_ystervark_spaa,ranging_20mm_m601,M601 APCR 1100 m/s
+us_adats_bradley,ranging_25mm_m791,M791 APDS 1345 m/s
+us_ags_teledyne,ranging_105mm_m833,M833 APFSDS 1485 m/s
+us_amx_13_75,ranging_75mm_pcot51p,PCOT51P APCBC 1000 m/s
+us_amx_13_90,ranging_90mm_occ_90_62,OCC-90-62 HEAT-FS 950 m/s
+us_ccvl,ranging_105mm_m833,M833 APFSDS 1485 m/s
+us_efv_p1,ranging_30mm_mk258,MK258 APFSDS 1430 m/s
+us_halftrack_m13,ranging_ap_ball_M2,AP-BALL-M2 894 m/s
+us_halftrack_m15,ranging_37mm_m59a1,M59A1 APC 625 m/s
+us_halftrack_m16,ranging_ap_ball_M2,AP-BALL-M2 894 m/s
+us_halftrack_m3_75mm_gmc,ranging_75mm_m61,M61 APCBC 609 m/s
+us_hstv_l,ranging_75mm_xm885,XM885 APFSDS 1463 m/s
+us_lav_ad,ranging_25mm_pgu_20_u,PGU-20-U APCR 1036 m/s
+us_lvt_4_zis_2,ranging_57mm_br_271,BR-271 APHEBC 990 m/s
+us_lvt_a1_m24,ranging_75mm_m61,M61 APCBC 618 m/s
+us_lvt_a_1,ranging_37mm_m51b1,M51B1 APCBC 883 m/s
+us_lvt_a_1_trb,ranging_37mm_m51b1,M51B1 APCBC 883 m/s
+us_lvt_a_4,ranging_75mm_m66,M66 HEAT 304 m/s
+us_m10,ranging_76mm_m62,M62 APCBC 792 m/s
+us_m103,ranging_120mm_m469,M469 HEAT-FS 1143 m/s
+us_m109a1,ranging_155mm_m107,M107 HE 684 m/s
+us_m10_booker_late,ranging_105mm_m900,M900 APFSDS 1505 m/s
+us_m1128_mgs,ranging_105mm_m900,M900 APFSDS 1505 m/s
+us_m1128_wolfpack,ranging_105mm_m900,M900 APFSDS 1505 m/s
+us_m1296_dragoon,ranging_30mm_mk258,MK258 APFSDS 1430 m/s
+us_m163_vulcan,ranging_20mm_m53,M53 AP 1030 m/s
+us_m18_hellcat,ranging_76mm_m62,M62 APCBC 792 m/s
+us_m18_hellcat_black_cat,ranging_76mm_m62,M62 APCBC 792 m/s
+us_m18_hellcat_kit_3rank,ranging_76mm_m62,M62 APCBC 792 m/s
+us_m18_super_hellcat,ranging_90mm_m82,M82 APCBC 853 m/s
+us_m19,ranging_40mm_M81A1,M81A1 AP 875 m/s
+us_m1_abrams,ranging_105mm_m774,M774 APFSDS 1509 m/s
+us_m1_abrams_kvt,ranging_105mm_m774,M774 APFSDS 1509 m/s
+us_m1_ip_abrams,ranging_105mm_m900,M900 APFSDS 1505 m/s
+us_m1a1_abrams,ranging_120mm_m829a1,M829A1 APFSDS 1575 m/s
+us_m1a1_abrams_yt_cup_2019,ranging_120mm_m829a1,M829A1 APFSDS 1575 m/s
+us_m1a1_aim_abrams,ranging_120mm_ke_w,KE-W APFSDS 1585 m/s
+us_m1a1_hc_abrams,ranging_120mm_m829a2,M829A2 APFSDS 1680 m/s
+us_m1a1_hc_usmc,ranging_120mm_m829a2,M829A2 APFSDS 1680 m/s
+us_m1a1_hc_usmc_sm,ranging_120mm_m829a2,M829A2 APFSDS 1680 m/s
+us_m1a2_abrams,ranging_120mm_m829a2,M829A2 APFSDS 1680 m/s
+us_m1a2_sep2_abrams,ranging_120mm_m829a2,M829A2 APFSDS 1680 m/s
+us_m1a2_sep2_abrams_trophy,ranging_120mm_m829a2,M829A2 APFSDS 1680 m/s
+us_m1a2_sep3_abrams,ranging_120mm_m829a2,M829A2 APFSDS 1680 m/s
+us_m1a2_sep_abrams,ranging_120mm_m829a2,M829A2 APFSDS 1680 m/s
+us_m22_locust,ranging_37mm_m51b1,M51B1 APCBC 883 m/s
+us_m247,ranging_40mm_m811_fuze_delay,M811-FUZE-DELAY SAP 1100 m/s
+us_m24_chaffee,ranging_75mm_m61,M61 APCBC 618 m/s
+us_m24_chaffee_tl,ranging_75mm_m61,M61 APCBC 618 m/s
+us_m26_pershing,ranging_90mm_m82,M82 APCBC 853 m/s
+us_m26_pershing_tutorial,ranging_90mm_m82,M82 APCBC 853 m/s
+us_m26_t99,ranging_90mm_m82,M82 APCBC 853 m/s
+us_m26e1_pershing,ranging_90mm_t41,T41 APCBC 975 m/s
+us_m2_medium,ranging_37mm_m51b1,M51B1 APCBC 883 m/s
+us_m2a2,ranging_ap_ball_M2,AP-BALL-M2 894 m/s
+us_m2a4,ranging_37mm_m51b1,M51B1 APCBC 870 m/s
+us_m2a4_1st_armor_div,ranging_37mm_m51b1,M51B1 APCBC 870 m/s
+us_m36,ranging_90mm_m82,M82 APCBC 853 m/s
+us_m36b2,ranging_90mm_m348,M348 HEAT-FS 853 m/s
+us_m3_bradley,ranging_25mm_m791,M791 APDS 1345 m/s
+us_m3_lee,ranging_37mm_m51b1,M51B1 APCBC 870 m/s
+us_m3_stuart,ranging_37mm_m51b1,M51B1 APCBC 870 m/s
+us_m3a1_stuart,ranging_37mm_m51b1,M51B1 APCBC 883 m/s
+us_m3a1_stuart_nvidia,ranging_37mm_m51b1,M51B1 APCBC 883 m/s
+us_m3a1_stuart_usmc,ranging_37mm_m51b1,M51B1 APCBC 883 m/s
+us_m3a3_bradley,ranging_25mm_m919,M919 APFSDS 1385 m/s
+us_m41_walker_bulldog,ranging_76mm_m331a2,M331A2 APDS 1257 m/s
+us_m42_duster,ranging_40mm_M81A1,M81A1 AP 875 m/s
+us_m44,ranging_155mm_m107,M107 HE 563 m/s
+us_m46_patton,ranging_90mm_m348,M348 HEAT-FS 853 m/s
+us_m46_patton_73_armor_bat,ranging_90mm_m348,M348 HEAT-FS 853 m/s
+us_m47_patton_II,ranging_90mm_m431,M431 HEAT-FS 1216 m/s
+us_m48a1_patton_III,ranging_90mm_m431,M431 HEAT-FS 1216 m/s
+us_m4_sherman,ranging_75mm_m61,M61 APCBC 618 m/s
+us_m4_sherman_calliope,ranging_75mm_m61,M61 APCBC 618 m/s
+us_m4_sherman_promo,ranging_75mm_m61,M61 APCBC 618 m/s
+us_m4_t26,ranging_90mm_m82,M82 APCBC 853 m/s
+us_m4a1_1942_sherman,ranging_75mm_m61,M61 APCBC 618 m/s
+us_m4a1_76w_sherman,ranging_76mm_m62,M62 APCBC 792 m/s
+us_m4a2_1944_germ,ranging_75mm_m61,M61 APCBC 618 m/s
+us_m4a2_76w_sherman,ranging_76mm_m62,M62 APCBC 792 m/s
+us_m4a2_76w_sherman_tutorial,ranging_76mm_m62,M62 APCBC 792 m/s
+us_m4a2_sherman,ranging_75mm_m61,M61 APCBC 618 m/s
+us_m4a3_105_sherman,ranging_105mm_m67,M67 HEAT 381 m/s
+us_m4a3e2_76w_sherman_jumbo,ranging_76mm_m62,M62 APCBC 792 m/s
+us_m4a3e2_sherman_jumbo,ranging_75mm_m61,M61 APCBC 618 m/s
+us_m4a3e2_sherman_jumbo_cobra_king,ranging_75mm_m61,M61 APCBC 618 m/s
+us_m4a3e8_76w_sherman,ranging_76mm_m62,M62 APCBC 792 m/s
+us_m4a3e8_76w_sherman_kit_3rank,ranging_76mm_m62,M62 APCBC 792 m/s
+us_m4a5_ram_2,ranging_57mm_shot_mk9t,SHOT-MK9T APCBC 801 m/s
+us_m50_ontos,ranging_106mm_m344a1,M344A1 HEAT 503 m/s
+us_m55,ranging_203mm_m106,M106 HE 594 m/s
+us_m551,ranging_152mm_m409a1,M409A1 HEAT 682 m/s
+us_m551_76,ranging_76mm_m331a2,M331A2 APDS 1257 m/s
+us_m56_scorpion,ranging_90mm_m431,M431 HEAT-FS 1216 m/s
+us_m5a1_stuart,ranging_37mm_m51b1,M51B1 APCBC 883 m/s
+us_m5a1_stuart_canadian_5st_arm,ranging_37mm_m51b1,M51B1 APCBC 883 m/s
+us_m5a1_stuart_td,ranging_37mm_m51b1,M51B1 APCBC 883 m/s
+us_m60,ranging_105mm_m456,M456 HEAT-FS 1174 m/s
+us_m60_120s,ranging_120mm_m829a1,M829A1 APFSDS 1575 m/s
+us_m60a1,ranging_105mm_m456,M456 HEAT-FS 1174 m/s
+us_m60a1_rise_mod,ranging_105mm_m735,M735 APFSDS 1501 m/s
+us_m60a1_rise_passive_era,ranging_105mm_m735,M735 APFSDS 1501 m/s
+us_m60a2,ranging_152mm_m409a1,M409A1 HEAT 682 m/s
+us_m60a3_slep,ranging_120mm_ke_w,KE-W APFSDS 1585 m/s
+us_m60a3_tts,ranging_105mm_m774,M774 APFSDS 1509 m/s
+us_m6a1,ranging_76mm_m62,M62 APCBC 792 m/s
+us_m6a2e1,ranging_105mm_t32,T32 APCBC 914 m/s
+us_m7,ranging_75mm_m61,M61 APCBC 618 m/s
+us_m728,ranging_165mm_m123,M123 HESH 259 m/s
+us_m8_greyhound,ranging_37mm_m51b1,M51B1 APCBC 883 m/s
+us_m8_scott,ranging_75mm_m66,M66 HEAT 304 m/s
+us_m8_scott_snowball,ranging_75mm_m66,M66 HEAT 304 m/s
+us_m8a1,ranging_75mm_m61,M61 APCBC 618 m/s
+us_magach_3,ranging_105mm_imi_m152,IMI-M152 HEAT-FS 1174 m/s
+us_mbt_70,ranging_152mm_xm578e1,XM578E1 APFSDS 1509 m/s
+us_merkava_mk_1,ranging_105mm_m111,M111 APFSDS 1455 m/s
+us_merkava_mk_2b_late,ranging_105mm_imi_m413,IMI-M413 APFSDS 1455 m/s
+us_merkava_mk_3d,ranging_120mm_m322_idf,M322-IDF APFSDS 1705 m/s
+us_mk1_grant,ranging_37mm_m51b1,M51B1 APCBC 870 m/s
+us_rdf_lt,ranging_75mm_xm885,XM885 APFSDS 1463 m/s
+us_skink_aa,ranging_20mm_oerlikon_ap,OERLIKON-AP 830 m/s
+us_skink_aa_kit_3rank,ranging_20mm_oerlikon_ap,OERLIKON-AP 830 m/s
+us_stingray,ranging_105mm_dm33,DM33 APFSDS 1455 m/s
+us_stingray_2,ranging_105mm_dm33,DM33 APFSDS 1455 m/s
+us_t114,ranging_106mm_m344a1,M344A1 HEAT 503 m/s
+us_t14,ranging_75mm_m61,M61 APCBC 618 m/s
+us_t18_e2,ranging_57mm_m86,M86 APCBC 822 m/s
+us_t1e1,ranging_76mm_m62,M62 APCBC 792 m/s
+us_t1e1_90,ranging_90mm_m82,M82 APCBC 853 m/s
+us_t20,ranging_76mm_m62,M62 APCBC 792 m/s
+us_t25,ranging_90mm_m82,M82 APCBC 853 m/s
+us_t26e4_superpershing,ranging_90mm_t41,T41 APCBC 975 m/s
+us_t26e5,ranging_90mm_m82,M82 APCBC 853 m/s
+us_t28,ranging_105mm_t32,T32 APCBC 914 m/s
+us_t29,ranging_105mm_t32,T32 APCBC 914 m/s
+us_t30,ranging_155mm_t29e1,T29E1 APCBC 670 m/s
+us_t32,ranging_90mm_t41,T41 APCBC 975 m/s
+us_t32e1,ranging_90mm_t41,T41 APCBC 975 m/s
+us_t34,ranging_120mm_t14e3,T14E3 APCBC 960 m/s
+us_t54e1,ranging_105mm_t298e1,T298E1 HEAT-FS 1128 m/s
+us_t54e2,ranging_105mm_t298e1,T298E1 HEAT-FS 1128 m/s
+us_t55e1,ranging_76mm_m62,M62 APCBC 792 m/s
+us_t58,ranging_155_mm_t267,155-MM-T267 HEAT 826 m/s
+us_t77e1,ranging_ap_ball_M2,AP-BALL-M2 894 m/s
+us_t86,ranging_76mm_m62,M62 APCBC 792 m/s
+us_t92,ranging_76mm_m496,M496 HEAT-FS 1082 m/s
+us_t95,ranging_105mm_t32,T32 APCBC 914 m/s
+us_t95e1,ranging_90mm_t320,T320 APFSDS 1570 m/s
+us_xm1_chrysler,ranging_105mm_m735,M735 APFSDS 1501 m/s
+us_xm1_gm,ranging_105mm_m735,M735 APFSDS 1501 m/s
+us_xm246,ranging_35_228mm_aphe_i,APHE-I 1175 m/s
+us_xm_8,ranging_105mm_m774,M774 APFSDS 1509 m/s
+us_xm_800t,ranging_20mm_dm63,DM63 APDS 1150 m/s
+us_xm_803,ranging_152mm_xm578e1,XM578E1 APFSDS 1509 m/s
+ussr_2s1,ranging_122mm_zbk_10,ZBK-10 HEAT-FS 726 m/s
+ussr_2s19_m1,ranging_152mm_bp_540,BP-540 HEAT 700 m/s
+ussr_2s19_m2,ranging_152mm_bp_540,BP-540 HEAT 700 m/s
+ussr_2s25,ranging_125mm_3bm42,3BM42 APFSDS 1700 m/s
+ussr_2s25m,ranging_125mm_3bm60,3BM60 APFSDS 1660 m/s
+ussr_2s38,ranging_57mm_3ubr_22,3UBR-22 APFSDS 1500 m/s
+ussr_2s3m,ranging_152mm_bp_540,BP-540 HEAT 680 m/s
+ussr_a_12_mk_2_matilda_2A_F96,ranging_76mm_br_350a,BR-350A APHEBC 662 m/s
+ussr_asu_57,ranging_57mm_br_271m,BR-271M APCBC 1020 m/s
+ussr_asu_85,ranging_85mm_3bk7,3BK7 HEAT-FS 925 m/s
+ussr_ba_11,ranging_45mm_br_243sp,BR-243SP APBC 757 m/s
+ussr_bmd_4,ranging_30mm_3UBR8,3UBR8 APDS 1120 m/s
+ussr_bmd_4m,ranging_30mm_3UBR8,3UBR8 APDS 1120 m/s
+ussr_bmd_4m2,ranging_30mm_3UBR8,3UBR8 APDS 1120 m/s
+ussr_bmp_1,ranging_73mm_pg_9,PG-9 HEAT 665 m/s
+ussr_bmp_2,ranging_30mm_3UBR8,3UBR8 APDS 1120 m/s
+ussr_bmp_2m,ranging_30mm_3ubr_11,3UBR-11 APFSDS 1260 m/s
+ussr_bmp_3,ranging_30mm_3UBR8,3UBR8 APDS 1120 m/s
+ussr_bmpt,ranging_30mm_3UBR8,3UBR8 APDS 1120 m/s
+ussr_bmpt_72,ranging_30mm_3UBR8,3UBR8 APDS 1120 m/s
+ussr_bt_5,ranging_45mm_br_243sp,BR-243SP APBC 757 m/s
+ussr_bt_7_1937,ranging_45mm_br_243sp,BR-243SP APBC 757 m/s
+ussr_bt_7_1937_td,ranging_45mm_br_243sp,BR-243SP APBC 757 m/s
+ussr_bt_7_m,ranging_45mm_br_243sp,BR-243SP APBC 757 m/s
+ussr_bt_7_m_816,ranging_45mm_br_243sp,BR-243SP APBC 757 m/s
+ussr_bt_7a_f32,ranging_76mm_br_350a,BR-350A APHEBC 612 m/s
+ussr_btr_152a,ranging_14mm_api,API 990 m/s
+ussr_btr_152d,ranging_14mm_api,API 990 m/s
+ussr_btr_80a,ranging_30mm_3UBR8,3UBR8 APDS 1120 m/s
+ussr_btr_82at,ranging_30mm_3UBR8,3UBR8 APDS 1120 m/s
+ussr_btr_90_2004,ranging_30mm_3ubr_11,3UBR-11 APFSDS 1260 m/s
+ussr_btr_zd,ranging_23mm_apit,APIT 970 m/s
+ussr_garford_putilov,ranging_76mm_1910_he,1910-HE 381 m/s
+ussr_gaz_4m,ranging_ap_i_ball_818,AP-I-BALL-818 818 m/s
+ussr_gaz_dshk,ranging_ap_i_t_ball_bzt_44,AP-I-T-BALL-BZT-44 865 m/s
+ussr_gaz_mm_72k,ranging_25mm_br_132,BR-132 AP 900 m/s
+ussr_is_1,ranging_85mm_br_365k,BR-365K APHE 792 m/s
+ussr_is_1_kit_3rank,ranging_85mm_br_365k,BR-365K APHE 792 m/s
+ussr_is_2_1943,ranging_122mm_br_471,BR-471 APHE 795 m/s
+ussr_is_2_1944,ranging_122mm_br_471d,BR-471D APCBC 800 m/s
+ussr_is_2_1944_321,ranging_122mm_br_471d,BR-471D APCBC 800 m/s
+ussr_is_2_1944_revenge,ranging_122mm_br_471d,BR-471D APCBC 800 m/s
+ussr_is_2m_kit_4rank,ranging_122mm_br_471d,BR-471D APCBC 800 m/s
+ussr_is_3,ranging_122mm_br_471d,BR-471D APCBC 800 m/s
+ussr_is_4m,ranging_122mm_br_471d,BR-471D APCBC 800 m/s
+ussr_is_6,ranging_122mm_br_471d,BR-471D APCBC 800 m/s
+ussr_is_7,ranging_130mm_br_482b,BR-482B APCBC 900 m/s
+ussr_isu_122,ranging_122mm_br_471,BR-471 APHE 795 m/s
+ussr_isu_122s,ranging_122mm_br_471,BR-471 APHE 795 m/s
+ussr_isu_152,ranging_152mm_bp_540,BP-540 HEAT 680 m/s
+ussr_kv_122,ranging_122mm_br_471,BR-471 APHE 795 m/s
+ussr_kv_1_L_11,ranging_76mm_br_350a,BR-350A APHEBC 612 m/s
+ussr_kv_1_zis_5,ranging_76mm_br_350a,BR-350A APHEBC 662 m/s
+ussr_kv_1e,ranging_76mm_br_350a,BR-350A APHEBC 612 m/s
+ussr_kv_1s,ranging_76mm_br_350a,BR-350A APHEBC 662 m/s
+ussr_kv_220,ranging_85mm_br_365a,BR-365A APHEBC 792 m/s
+ussr_kv_2_1939,ranging_152mm_pb_35,PB-35 SAP 436 m/s
+ussr_kv_2_1940,ranging_152mm_pb_35,PB-35 SAP 436 m/s
+ussr_kv_2_zis_6,ranging_107mm_b420,B420 APHEBC 800 m/s
+ussr_kv_7_u13,ranging_76mm_br_350a,BR-350A APHEBC 662 m/s
+ussr_kv_8,ranging_45mm_br_243sp,BR-243SP APBC 757 m/s
+ussr_kv_85,ranging_85mm_br_365k,BR-365K APHE 792 m/s
+ussr_m3c,ranging_37mm_m51b1,M51B1 APCBC 870 m/s
+ussr_m4a2_76w_sherman,ranging_76mm_m62,M62 APCBC 792 m/s
+ussr_m53_59,ranging_30mm_jpzsv_53_59,JPZSV-53-59 APCR 1000 m/s
+ussr_m53_59_kit_4rank,ranging_30mm_jpzsv_53_59,JPZSV-53-59 APCR 1000 m/s
+ussr_object_120,ranging_152mm_m69_apds_fs,M69-APDS-FS APFSDS 1750 m/s
+ussr_object_140,ranging_100mm_d54ts_heat,D54TS-HEAT HEAT-FS 1025 m/s
+ussr_object_248,ranging_100mm_br_412b,BR-412B APHEBC 895 m/s
+ussr_object_268,ranging_152mm_bp_540,BP-540 HEAT 770 m/s
+ussr_object_279,ranging_130mm_br_482b,BR-482B APCBC 1000 m/s
+ussr_object_292,ranging_152mm_lp_83_apfsds,LP-83-APFSDS 1980 m/s
+ussr_object_416,ranging_100mm_br_412d,BR-412D APCBC 887 m/s
+ussr_object_435,ranging_115mm_3bm3,3BM3 APFSDS 1615 m/s
+ussr_object_685,ranging_100mm_3bm25,3BM25 APFSDS 1430 m/s
+ussr_object_906,ranging_85mm_3bk7,3BK7 HEAT-FS 925 m/s
+ussr_pantsyr_s1,ranging_30mm_UBR6,UBR6 AP 970 m/s
+ussr_pantsyr_sm_sv,ranging_30mm_UBR6,UBR6 AP 970 m/s
+ussr_pt_76_57,ranging_57mm_br_281u,BR-281U APCBC 1000 m/s
+ussr_pt_76b,ranging_76mm_bk_354m,BK-354M HEAT-FS 700 m/s
+ussr_pzkpfw_III_ausf_J_L42,ranging_50mm_pzgr_39,PZGR-39 APC 685 m/s
+ussr_pzkpfw_V,ranging_75mm_pzrg_39_42,PZRG-39-42 APCBC 935 m/s
+ussr_rbt_5,ranging_45mm_br_243sp,BR-243SP APBC 757 m/s
+ussr_sdkfz_251_21_kit_3rank,ranging_20mm_pzsprgr,PZSPRGR AP 705 m/s
+ussr_smk,ranging_76mm_br_350a,BR-350A APHEBC 612 m/s
+ussr_su_100Y,ranging_130mm_pb_46a,PB-46A SAP 870 m/s
+ussr_su_100_1945,ranging_100mm_br_412d,BR-412D APCBC 887 m/s
+ussr_su_100p,ranging_100mm_br_412d,BR-412D APCBC 887 m/s
+ussr_su_122,ranging_122mm_bp_462,BP-462 HEAT 335 m/s
+ussr_su_122P,ranging_122mm_br_471d,BR-471D APCBC 800 m/s
+ussr_su_122_54,ranging_122mm_zbk_10,ZBK-10 HEAT-FS 820 m/s
+ussr_su_152,ranging_152mm_br_540b,BR-540B APHEBC 600 m/s
+ussr_su_57,ranging_57mm_m86,M86 APCBC 822 m/s
+ussr_su_57b,ranging_57mm_br_271,BR-271 APHEBC 990 m/s
+ussr_su_5_1,ranging_76mm_br_350a,BR-350A APHEBC 662 m/s
+ussr_su_76d,ranging_76mm_br_350a,BR-350A APHEBC 662 m/s
+ussr_su_76m_1943,ranging_76mm_br_350a,BR-350A APHEBC 662 m/s
+ussr_su_76m_5st_kav_corps,ranging_76mm_br_350a,BR-350A APHEBC 662 m/s
+ussr_su_85_1943,ranging_85mm_br_365k,BR-365K APHE 792 m/s
+ussr_su_85a,ranging_85mm_br_365k,BR-365K APHE 792 m/s
+ussr_su_85m,ranging_85mm_br_365k,BR-365K APHE 792 m/s
+ussr_t_10a,ranging_122mm_br_471d,BR-471D APCBC 800 m/s
+ussr_t_10m,ranging_122mm_zbk_9,ZBK-9 HEAT-FS 920 m/s
+ussr_t_126sp,ranging_45mm_br_243sp,BR-243SP APBC 757 m/s
+ussr_t_26E,ranging_45mm_br_243sp,BR-243SP APBC 757 m/s
+ussr_t_26_1940,ranging_45mm_br_243sp,BR-243SP APBC 757 m/s
+ussr_t_26_1940_1st_GvTBr,ranging_45mm_br_243sp,BR-243SP APBC 757 m/s
+ussr_t_26_4,ranging_76mm_br_350a,BR-350A APHEBC 370 m/s
+ussr_t_28,ranging_76mm_of_350m,OF-350M HE 560 m/s
+ussr_t_28E,ranging_76mm_of_350m,OF-350M HE 560 m/s
+ussr_t_28_1938,ranging_76mm_br_350a,BR-350A APHEBC 370 m/s
+ussr_t_34E,ranging_76mm_br_350a,BR-350A APHEBC 662 m/s
+ussr_t_34E_STZ,ranging_76mm_br_350a,BR-350A APHEBC 662 m/s
+ussr_t_34_100,ranging_100mm_br_412d,BR-412D APCBC 887 m/s
+ussr_t_34_1940_l_11,ranging_76mm_br_350a,BR-350A APHEBC 612 m/s
+ussr_t_34_1941,ranging_76mm_br_350a,BR-350A APHEBC 662 m/s
+ussr_t_34_1941_57,ranging_57mm_br_271,BR-271 APHEBC 990 m/s
+ussr_t_34_1941_cast_turret,ranging_76mm_br_350a,BR-350A APHEBC 662 m/s
+ussr_t_34_1941_l_11,ranging_76mm_br_350a,BR-350A APHEBC 612 m/s
+ussr_t_34_1942,ranging_76mm_br_350a,BR-350A APHEBC 662 m/s
+ussr_t_34_57_1943,ranging_57mm_br_271,BR-271 APHEBC 990 m/s
+ussr_t_34_85E,ranging_85mm_br_365k,BR-365K APHE 792 m/s
+ussr_t_34_85_d_5t,ranging_85mm_br_365k,BR-365K APHE 792 m/s
+ussr_t_34_85_stp_s53,ranging_85mm_br_367,BR-367 APCBC 792 m/s
+ussr_t_34_85_zis_53,ranging_85mm_br_365k,BR-365K APHE 792 m/s
+ussr_t_34_85_zis_53_kit_3rank,ranging_85mm_br_365k,BR-365K APHE 792 m/s
+ussr_t_34_85_zis_53_v80,ranging_85mm_br_365k,BR-365K APHE 792 m/s
+ussr_t_35,ranging_76mm_br_350a,BR-350A APHEBC 370 m/s
+ussr_t_44,ranging_85mm_br_367,BR-367 APCBC 792 m/s
+ussr_t_44_100,ranging_100mm_br_412d,BR-412D APCBC 887 m/s
+ussr_t_44_122,ranging_122mm_br_471,BR-471 APHE 795 m/s
+ussr_t_44_kit_4rank,ranging_85mm_br_367,BR-367 APCBC 792 m/s
+ussr_t_44_po,ranging_85mm_br_367,BR-367 APCBC 792 m/s
+ussr_t_50,ranging_45mm_br_243sp,BR-243SP APBC 757 m/s
+ussr_t_50_for_tutorial,ranging_45mm_br_243sp,BR-243SP APBC 757 m/s
+ussr_t_54_1947,ranging_100mm_br_412d,BR-412D APCBC 887 m/s
+ussr_t_54_1949,ranging_100mm_zbk_5,ZBK-5 HEAT-FS 900 m/s
+ussr_t_54_1951,ranging_100mm_zbk_5,ZBK-5 HEAT-FS 900 m/s
+ussr_t_55_am,ranging_100mm_3bm25,3BM25 APFSDS 1430 m/s
+ussr_t_55_amd_1,ranging_100mm_3bm25,3BM25 APFSDS 1430 m/s
+ussr_t_55a,ranging_100mm_3bm25,3BM25 APFSDS 1430 m/s
+ussr_t_60_1941,ranging_20mm_shvak_api,SHVAK-API 892 m/s
+ussr_t_62,ranging_115mm_3bm3,3BM3 APFSDS 1615 m/s
+ussr_t_62m1,ranging_115mm_3bm21,3BM21 APFSDS 1600 m/s
+ussr_t_64_b_1984,ranging_125mm_3bm42,3BM42 APFSDS 1700 m/s
+ussr_t_64a_1971,ranging_125mm_3bm15,3BM15 APFSDS 1780 m/s
+ussr_t_70_1942,ranging_45mm_br_243sp,BR-243SP APBC 757 m/s
+ussr_t_72a,ranging_125mm_3bm15,3BM15 APFSDS 1780 m/s
+ussr_t_72av_turms,ranging_125mm_3bm42,3BM42 APFSDS 1700 m/s
+ussr_t_72b,ranging_125mm_3bm42,3BM42 APFSDS 1700 m/s
+ussr_t_72b3_2011,ranging_125mm_3bm60,3BM60 APFSDS 1660 m/s
+ussr_t_72b3_2017_race,ranging_125mm_3bm60,3BM60 APFSDS 1660 m/s
+ussr_t_72b3_arena,ranging_125mm_3bm60,3BM60 APFSDS 1660 m/s
+ussr_t_72b3_arena_m,ranging_125mm_3bm60,3BM60 APFSDS 1660 m/s
+ussr_t_72b_1989,ranging_125mm_3bm42,3BM42 APFSDS 1700 m/s
+ussr_t_72m2_moderna,ranging_125mm_tapna,TAPNA APFSDS 1690 m/s
+ussr_t_80,ranging_45mm_br_243sp,BR-243SP APBC 757 m/s
+ussr_t_80b,ranging_125mm_3bm42,3BM42 APFSDS 1700 m/s
+ussr_t_80bvm,ranging_125mm_3bm60,3BM60 APFSDS 1660 m/s
+ussr_t_80u,ranging_125mm_3bm46,3BM46 APFSDS 1700 m/s
+ussr_t_80u_race,ranging_125mm_3bm46,3BM46 APFSDS 1700 m/s
+ussr_t_80u_yt_cup_2019,ranging_125mm_3bm46,3BM46 APFSDS 1700 m/s
+ussr_t_80ud,ranging_125mm_3bm42,3BM42 APFSDS 1700 m/s
+ussr_t_80ue1,ranging_125mm_3bm46,3BM46 APFSDS 1700 m/s
+ussr_t_80ue1_sm,ranging_125mm_3bm46,3BM46 APFSDS 1700 m/s
+ussr_t_80uk,ranging_125mm_3bm46,3BM46 APFSDS 1700 m/s
+ussr_t_80um2,ranging_125mm_3bm46,3BM46 APFSDS 1700 m/s
+ussr_t_90a,ranging_125mm_3bm60,3BM60 APFSDS 1660 m/s
+ussr_t_90m_2020,ranging_125mm_3bm60,3BM60 APFSDS 1660 m/s
+ussr_t_90m_arena_m,ranging_125mm_3bm60,3BM60 APFSDS 1660 m/s
+ussr_to_55,ranging_100mm_zbk_5,ZBK-5 HEAT-FS 900 m/s
+ussr_type_62,ranging_85mm_type1956,TYPE1956 HEAT-FS 845 m/s
+ussr_type_65_aa,ranging_37mm_UBR_167,UBR-167 AP 868 m/s
+ussr_valentine_mk_9,ranging_57mm_shot_mk9t,SHOT-MK9T APCBC 801 m/s
+ussr_zis_12_94KM_1945,ranging_25mm_br_132,BR-132 AP 900 m/s
+ussr_zis_30,ranging_57mm_br_271,BR-271 APHEBC 990 m/s
+ussr_zis_43,ranging_37mm_UBR_167,UBR-167 AP 868 m/s
+ussr_zprk_2s6,ranging_30mm_UBR6,UBR6 AP 970 m/s
+ussr_zsu_23_4,ranging_23mm_apit,APIT 970 m/s
+ussr_zsu_23_4m2,ranging_23mm_apit,APIT 970 m/s
+ussr_zsu_23_4m4,ranging_23mm_apit,APIT 970 m/s
+ussr_zsu_29k,ranging_76mm_br_361,BR-361 APHEBC 813 m/s
+ussr_zsu_37,ranging_37mm_UBR_167,UBR-167 AP 868 m/s
+ussr_zsu_37_2,ranging_37mm_UBR_167,UBR-167 AP 1000 m/s
+ussr_zsu_57_2,ranging_57mm_br_281u_belt,BR-281U-BELT APCBC 1000 m/s
+ussr_zut_37,ranging_37mm_BT,BT AP 880 m/s
