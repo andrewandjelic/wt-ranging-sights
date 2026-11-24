@@ -8,6 +8,21 @@ vehicle.
 They use the game's built-in custom sight feature (the same one behind the
 sights shared on WT Live). Nothing here touches the game client.
 
+![The parts of a sight, on the M8 HMC](docs/sight-parts.jpg)
+
+## How to use it
+
+![Ranging a target with the ELC AMX](docs/ranging.jpg)
+
+1. Put the target under the ladder and slide it down until a bar is as wide
+   as its hull, or a post is as tall as the tank.
+2. Read the number on that row. That is the range in hundreds of metres.
+3. Fire with that row's bar on the target. No range dial needed.
+
+If the tank is turned, it will look wider than it is. Go by the height post.
+
+![The shell label, on the AMX-50 Foch](docs/shell-label.jpg)
+
 ## What a sight shows
 
 - **Range ladder.** A column of bars under the aim point, one per range step,
